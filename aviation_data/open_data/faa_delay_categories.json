@@ -1,0 +1,7 @@
+{
+  "air_carrier_delay": "Delays within the control of the air carrier",
+  "extreme_weather_delay": "Delays due to extreme weather conditions",
+  "national_aviation_system_delay": "Delays due to NAS conditions",
+  "late_aircraft_delay": "Delays due to previous flight arriving late",
+  "security_delay": "Delays due to security issues"
+}

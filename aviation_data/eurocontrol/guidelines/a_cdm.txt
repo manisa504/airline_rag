@@ -1,0 +1,52 @@
+Title: A-CDM
+Source: EUROCONTROL
+URL: https://www.eurocontrol.int/concept/airport-collaborative-decision-making
+License: Creative Commons Attribution
+======================================================================
+
+Airport collaborative decision-making
+Improving the efficiency and resilience of airport operations by optimising the use of resources and improving the predictability of air traffic.
+THIS IS PART OF
+Optimised operational performance | Network Manager
+Airport CDM (A-CDM) aims to improve the efficiency and resilience of airport operations by optimising the use of resources and improving the predictability of air traffic. It achieves this by encouraging the airport partners (airport operators, aircraft operators, ground handlers and ATC) and the Network Manager to work more transparently and collaboratively, exchanging relevant accurate and timely information. It focuses especially on aircraft turn-round and pre-departure processes.
+It also allows the exchange of more accurate departure information, particularly target take-off times, with the European ATFCM network, leading to improved en-route and sectoral planning. For smaller airports, we also provide a more accessible alternative caller Advanced ATC tower concept.
+Implementation
+Airport CDM is now globally recognised. A-CDM is fully implemented in 34 airports across Europe, including Alicante, Amsterdam, Barcelona, Bergamo, Berlin Brandenburg, Brussels, Copenhagen, Düsseldorf, Frankfurt, Geneva, Hamburg, Helsinki, Lisbon, London Heathrow, London Gatwick, Lyon, Madrid, Málaga, Milan Linate, Milan Malpensa, Munich, Naples, Nice, Oslo, Palma de Mallorca, Paris CDG, Paris Orly, Prague, Riga, Rome Fiumicino, Stuttgart, Venice, Vienna, and Zurich. This map  provides and overview of the current status of A-CDM implementation at European airports. Where available, it also gives some information on A-CDM procedures in place. This information has been provided by the airports and verified by the Network Manager.
+Airport Collaborative Decision-Making (A-CDM) Implementation Manual
+31 March 2017
+Advanced ATC TWR
+For smaller airports where there is no justification for a full A-CDM implementation the possibility to integrate with the ATFCM Network is offered by the Advanced ATC Tower concept, sharing a very small sub-set of A-CDM information with the network. This option is also available to those airports that want to take a step towards full A-CDM.
+To learn more about DPI/FUM exchange and technical integration with the EUROCONTROL NM systems, please consult our Implementation Guide:
+Advanced ATC TWR Implementation Guide
+Version1.900
+1 October 2023
+Based on the A-CDM concept, the EUROCONTROL Network Manager also involves in the implementation of new and add-on concepts to support the even deeper integration of airports with the network. Here we take the lead in putting research into practice and further enhance and improve the collaboration between the partners in the network.
+EOBT for A-CDM
+At collaborative decision-making (A-CDM) airports, the target off-block time (TOBT) values reflect any delays that can be attributed to the aircraft operator (AO) or to the ground handling operations. To help reduce the workload for our partners, we provide a service to automatically solve the EOBT – TOBT discrepancies, depending on the AO preferences and prevent last minute flight disturbances caused by misalignment of EOBT with TOBT.
+About our EOBT update service
+Streamlining tactical flight operations using A-CDM data.
+Deliverables
+You can also find more detailed information on how to implement airport A-CDM by browsing through our deliverables below.
+EUROCONTROL Specification for Airport Collaborative Decision Making (A-CDM)
+30 January 2025
+Airport collaborative decision-making (A-CDM) impact assessment
+18 April 2016
+Airport collaborative decision-making (A-CDM) safety case guidance material
+1 February 2016
+Safety assessment on Airport collaborative decision-making (A-CDM)
+1 February 2016
+Departure Planning Information (DPI) implementation guide
+Version2.700
+30 June 2025
+Departure Planning Information (DPI) & Arrival Planning Information (API) implementation roadmap
+Version2.400
+1 October 2023
+Flight Update Message (FUM) implementation guide
+Version2.200
+1 October 2023
+You must have JavaScript enabled to use this form.
+Confirm email
+I agree that my data can be processed in accordance with EUROCONTROL's privacy and data protection policy.
+EUROCONTROL respects your personal data
+At EUROCONTROL, we manage your personal data responsibly, meaning we only use it for the pur-pose defined in the privacy statement. EUROCONTROL will never share your personal data to third parties. Read our full full privacy and data protection policy (PDF) to learn more.
+Leave this field blank

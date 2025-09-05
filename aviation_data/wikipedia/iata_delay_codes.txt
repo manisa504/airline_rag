@@ -1,0 +1,34 @@
+Title: IATA delay codes
+Source: Wikipedia
+URL: https://en.wikipedia.org/wiki/IATA_delay_codes
+License: Creative Commons Attribution-ShareAlike
+Summary: IATA delay codes were created to standardise the reporting by airlines of commercial flight departure delays.
+Previously, every airline had its own system, which made the sharing and aggregation of flight delay information difficult. IATA standardised the flight delay reporting format by using codes that attribute cause and responsibility for the delay; this supports aviation administration and logistics and helps to define any penalties arising. These codes are used in movement messages sent electronically by SITA from the departure airport to the destination airport and also in the internal administration of the airlines, airports and ground handling agents.
+======================================================================
+
+IATA delay codes were created to standardise the reporting by airlines of  commercial flight departure delays.
+Previously, every airline had its own system, which made  the sharing and aggregation of flight delay information difficult.   IATA standardised the flight delay reporting format by using codes that attribute cause and responsibility for the delay; this supports aviation administration and logistics and helps to define any penalties arising. These codes are used in movement messages sent electronically by SITA from the departure airport to the destination airport and also in the internal administration of the airlines, airports and ground handling agents.
+
+An aircraft held on the ground incurs costs, consequently airlines plan operations to minimise ground time. It is common practice for airlines and aircraft ground handling to have contracts based on a bonus–malus system, penalising the causative agent for delays caused. Delay code properties cover nine category sets for delay. Each category set can be described using either a two-digit number code or a two letter alpha code; most airlines use the numeric format, but some prefer the alpha. Messaging standards, such as the AHM 780 Aircraft Movement Message specification, specify that only the numeric codes should be used. Many airlines further subdivide the IATA codes with an additional character, for more granular delay analysis, but these are not standardized. In the AHM 780 specification, the two-character numeric-only codes are sent in the DL and EDL elements along with the time assigned to each code (e.g. DL31/62/0005/0015 showing reason 31 for 5 mins and reason 62 for 15 minutes), and the three-character alphanumeric codes are sent in the DLA element (e.g. DLA31C/62A// showing subreason C for code 31 and subreason A for code 62).
+
+Delay codes starting with 0 are used for internal airline purposes. Airlines are free to define these codes and to determine particular application fields.
+
+However the following codes are standard, even if some airlines do not use them and create their own customized delay codes:
+
+These Codes are used to describe delays caused by Passenger and Baggage handling.
+
+These Codes are used to describe delays caused by Cargo (21-26) and Mail Handling (27-29).
+
+These Codes are used to describe delays caused by aircraft and ramp handling
+
+These codes are used to describe technical delay reasons.
+
+These Codes are used to describe damage to aircraft and automated equipment failure.
+
+These codes are assigned to Operations and Crew caused delays.
+
+These Codes explain weather caused delays.
+
+These Codes are used for Air Traffic Control (ATC) Restrictions (81-84) and Airport or Governmental Authorities caused delays.
+
+Codes used for reactionary reasons or Miscellaneous.

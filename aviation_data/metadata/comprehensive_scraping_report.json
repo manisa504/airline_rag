@@ -1,0 +1,148 @@
+{
+  "scraping_completed_at": "2025-09-04 17:58:18",
+  "total_files": 18,
+  "total_size_mb": 0.1,
+  "sources": {
+    ".": {
+      "files": [],
+      "count": 0,
+      "size_mb": 0
+    },
+    "open_data": {
+      "files": [
+        {
+          "name": "faa_delay_categories.json",
+          "size_mb": 0.0
+        },
+        {
+          "name": "faa_delay_categories_metadata.json",
+          "size_mb": 0.0
+        }
+      ],
+      "count": 2,
+      "size_mb": 0.0
+    },
+    "raw_pdfs": {
+      "files": [],
+      "count": 0,
+      "size_mb": 0
+    },
+    "wikipedia": {
+      "files": [
+        {
+          "name": "minimum_equipment_list_metadata.json",
+          "size_mb": 0.0
+        },
+        {
+          "name": "mach_number.txt",
+          "size_mb": 0.01
+        },
+        {
+          "name": "minimum_equipment_list.txt",
+          "size_mb": 0.0
+        },
+        {
+          "name": "mach_number_metadata.json",
+          "size_mb": 0.0
+        },
+        {
+          "name": "flight_dispatcher.txt",
+          "size_mb": 0.01
+        },
+        {
+          "name": "fuel_economy_in_aircraft_metadata.json",
+          "size_mb": 0.0
+        },
+        {
+          "name": "flight_planning.txt",
+          "size_mb": 0.02
+        },
+        {
+          "name": "flight_planning_metadata.json",
+          "size_mb": 0.0
+        },
+        {
+          "name": "flight_dispatcher_metadata.json",
+          "size_mb": 0.0
+        },
+        {
+          "name": "fuel_economy_in_aircraft.txt",
+          "size_mb": 0.02
+        },
+        {
+          "name": "etops.txt",
+          "size_mb": 0.02
+        },
+        {
+          "name": "iata_delay_codes_metadata.json",
+          "size_mb": 0.0
+        },
+        {
+          "name": "iata_delay_codes.txt",
+          "size_mb": 0.0
+        },
+        {
+          "name": "etops_metadata.json",
+          "size_mb": 0.0
+        }
+      ],
+      "count": 14,
+      "size_mb": 0.1
+    },
+    "skybrary": {
+      "files": [],
+      "count": 0,
+      "size_mb": 0
+    },
+    "skybrary/definitions": {
+      "files": [],
+      "count": 0,
+      "size_mb": 0
+    },
+    "eurocontrol": {
+      "files": [],
+      "count": 0,
+      "size_mb": 0
+    },
+    "eurocontrol/guidelines": {
+      "files": [
+        {
+          "name": "a_cdm.txt",
+          "size_mb": 0.0
+        }
+      ],
+      "count": 1,
+      "size_mb": 0.0
+    },
+    "eurocontrol/reports": {
+      "files": [],
+      "count": 0,
+      "size_mb": 0
+    },
+    "faa": {
+      "files": [],
+      "count": 0,
+      "size_mb": 0
+    },
+    "faa/handbooks": {
+      "files": [],
+      "count": 0,
+      "size_mb": 0
+    },
+    "faa/manuals": {
+      "files": [
+        {
+          "name": "aeronautical_information_manual.txt",
+          "size_mb": 0.0
+        }
+      ],
+      "count": 1,
+      "size_mb": 0.0
+    }
+  },
+  "file_types": {
+    "txt": 9,
+    "pdf": 0,
+    "json": 9
+  }
+}

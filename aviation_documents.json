@@ -1,0 +1,740 @@
+[
+  {
+    "content": "The Mach number (M or Ma), often only Mach, (/m\u0251\u02d0x/; German: [max]) is a dimensionless quantity in fluid dynamics representing the ratio of flow velocity past a boundary to the local speed of sound. It is named after the Austrian physicist and philosopher Ernst Mach. M = u c , {\\displaystyle \\mathrm {M} ={\\frac {u}{c}},} where: By definition, at Mach 1, the local flow velocity u is equal to the speed of sound. At Mach 0.65, u is 65% of the speed of sound (subsonic), and, at Mach 1.35, u is 35% faster than the speed of sound (supersonic). The local speed of sound, and hence the Mach number, depends on the temperature of the surrounding gas. The Mach number is primarily used to determine the approximation with which a flow can be treated as an incompressible flow. The medium can be a gas or",
+    "source": "mach_number.txt",
+    "chunk_id": 0,
+    "file_path": "aviation_data/wikipedia/mach_number.txt"
+  },
+  {
+    "content": "a liquid. The boundary can be travelling in the medium, or it can be stationary while the medium flows along it, or they can both be moving, with different velocities: what matters is their relative velocity with respect to each other. The boundary can be the boundary of an object immersed in the medium, or of a channel such as a nozzle, diffuser or wind tunnel channelling the medium. As the Mach number is defined as the ratio of two speeds, it is a dimensionless quantity. If M < 0.2\u20130.3 and the flow is quasi-steady and isothermal, compressibility effects will be small and simplified incompressible flow equations can be used. The Mach number is named after the physicist and philosopher Ernst Mach, in honour of his achievements, according to a proposal by the aeronautical engineer Jakob",
+    "source": "mach_number.txt",
+    "chunk_id": 1,
+    "file_path": "aviation_data/wikipedia/mach_number.txt"
+  },
+  {
+    "content": "Ackeret in 1929. The word Mach is always capitalized since it derives from a proper name and since the Mach number is a dimensionless quantity rather than a unit of measure. This is also why the number comes after the word Mach. It was also known as Mach's number by Lockheed when reporting the effects of compressibility on the P-38 aircraft in 1942. Mach number is a measure of the compressibility characteristics of fluid flow: the fluid (air) behaves under the influence of compressibility in a similar manner at a given Mach number, regardless of other variables. As modeled in the International Standard Atmosphere, dry air at mean sea level, standard temperature of 15 \u00b0C (59 \u00b0F), the speed of sound is 340.3 meters per second (1,116.5 ft/s; 761.23 mph; 1,225.1 km/h; 661.49 kn). The speed of",
+    "source": "mach_number.txt",
+    "chunk_id": 2,
+    "file_path": "aviation_data/wikipedia/mach_number.txt"
+  },
+  {
+    "content": "sound is not a constant; in a gas, it increases proportionally to the square root of the absolute temperature, and since atmospheric temperature generally decreases with increasing altitude between sea level and 11,000 meters (36,089 ft), the speed of sound also decreases. For example, the standard atmosphere model lapses temperature to \u221256.5 \u00b0C (\u221269.7 \u00b0F) at 11,000 meters (36,089 ft) altitude, with a corresponding speed of sound (Mach 1) of 295.0 meters per second (967.8 ft/s; 659.9 mph; 1,062 km/h; 573.4 kn), 86.7% of the sea level value. The terms subsonic and supersonic are used to refer to speeds below and above the local speed of sound, and to particular ranges of Mach values. This occurs because of the presence of a transonic regime around flight (free stream) M = 1 where",
+    "source": "mach_number.txt",
+    "chunk_id": 3,
+    "file_path": "aviation_data/wikipedia/mach_number.txt"
+  },
+  {
+    "content": "approximations of the Navier-Stokes equations used for subsonic design no longer apply; the simplest explanation is that the flow around an airframe locally begins to exceed M = 1 even though the free stream Mach number is below this value. Meanwhile, the supersonic regime is usually used to talk about the set of Mach numbers for which linearised theory may be used, where for example the (air) flow is not chemically reacting, and where heat-transfer between air and vehicle may be reasonably neglected in calculations. Flight can be roughly classified in six categories: At transonic speeds, the flow field around the object includes both sub- and supersonic parts. The transonic period begins when first zones of M > 1 flow appear around the object. In case of an airfoil (such as an aircraft's",
+    "source": "mach_number.txt",
+    "chunk_id": 4,
+    "file_path": "aviation_data/wikipedia/mach_number.txt"
+  },
+  {
+    "content": "wing), this typically happens above the wing. Supersonic flow can decelerate back to subsonic only in a normal shock; this typically happens before the trailing edge. (Fig.1a) As the speed increases, the zone of M > 1 flow increases towards both leading and trailing edges. As M = 1 is reached and passed, the normal shock reaches the trailing edge and becomes a weak oblique shock: the flow decelerates over the shock, but remains supersonic. A normal shock is created ahead of the object, and the only subsonic zone in the flow field is a small area around the object's leading edge. (Fig.1b) When an aircraft exceeds Mach 1 (i.e. the sound barrier), a large pressure difference is created just in front of the aircraft. This abrupt pressure difference, called a shock wave, spreads backward and",
+    "source": "mach_number.txt",
+    "chunk_id": 5,
+    "file_path": "aviation_data/wikipedia/mach_number.txt"
+  },
+  {
+    "content": "outward from the aircraft in a cone shape (a so-called Mach cone). It is this shock wave that causes the sonic boom heard as a fast moving aircraft travels overhead. A person inside the aircraft will not hear this. The higher the speed, the more narrow the cone; at just over M = 1 it is hardly a cone at all, but closer to a slightly concave plane. At fully supersonic speed, the shock wave starts to take its cone shape and flow is either completely supersonic, or (in case of a blunt object), only a very small subsonic flow area remains between the object's nose and the shock wave it creates ahead of itself. (In the case of a sharp object, there is no air between the nose and the shock wave: the shock wave starts from the nose.) As the Mach number increases, so does the strength of the",
+    "source": "mach_number.txt",
+    "chunk_id": 6,
+    "file_path": "aviation_data/wikipedia/mach_number.txt"
+  },
+  {
+    "content": "shock wave and the Mach cone becomes increasingly narrow. As the fluid flow crosses the shock wave, its speed is reduced and temperature, pressure, and density increase. The stronger the shock, the greater the changes. At high enough Mach numbers the temperature increases so much over the shock that ionization and dissociation of gas molecules behind the shock wave begin. As a flow in a channel becomes supersonic, one significant change takes place. The conservation of mass flow rate leads one to expect that contracting the flow channel would increase the flow speed (i.e. making the channel narrower results in faster air flow) and at subsonic speeds this holds true. However, once the flow becomes supersonic, the relationship of flow area and speed is reversed: expanding the channel",
+    "source": "mach_number.txt",
+    "chunk_id": 7,
+    "file_path": "aviation_data/wikipedia/mach_number.txt"
+  },
+  {
+    "content": "actually increases the speed. When the speed of sound is known, the Mach number at which an aircraft is flying can be calculated by M = u c {\\displaystyle \\mathrm {M} ={\\frac {u}{c}}} where: and the speed of sound varies with the thermodynamic temperature as: c = \u03b3 \u22c5 R \u2217 \u22c5 T , {\\displaystyle c={\\sqrt {\\gamma \\cdot R_{*}\\cdot T}},} where: If the speed of sound is not known, Mach number may be determined by measuring the various air pressures (static and dynamic) and using the following formula that is derived from Bernoulli's equation for Mach numbers less than 1.0. Assuming air to be an ideal gas, the formula to compute Mach number in a subsonic compressible flow is: M = 2 \u03b3 \u2212 1 [ ( q c p + 1 ) \u03b3 \u2212 1 \u03b3 \u2212 1 ] {\\displaystyle \\mathrm {M} ={\\sqrt {{\\frac {2}{\\gamma -1}}\\left[\\left({\\frac",
+    "source": "mach_number.txt",
+    "chunk_id": 8,
+    "file_path": "aviation_data/wikipedia/mach_number.txt"
+  },
+  {
+    "content": "{q_{c}}{p}}+1\\right)^{\\frac {\\gamma -1}{\\gamma }}-1\\right]}}\\,} where: The formula to compute Mach number in a supersonic compressible flow is derived from the Rayleigh supersonic pitot equation: p t p = [ \u03b3 + 1 2 M 2 ] \u03b3 \u03b3 \u2212 1 \u22c5 [ \u03b3 + 1 1 \u2212 \u03b3 + 2 \u03b3 M 2 ] 1 \u03b3 \u2212 1 {\\displaystyle {\\frac {p_{t}}{p}}=\\left[{\\frac {\\gamma +1}{2}}\\mathrm {M} ^{2}\\right]^{\\frac {\\gamma }{\\gamma -1}}\\cdot \\left[{\\frac {\\gamma +1}{1-\\gamma +2\\gamma \\,\\mathrm {M} ^{2}}}\\right]^{\\frac {1}{\\gamma -1}}} Mach number is a function of temperature and true airspeed. Aircraft flight instruments, however, operate using pressure differential to compute Mach number, not temperature. Assuming air to be an ideal gas, the formula to compute Mach number in a subsonic compressible flow is found from Bernoulli's equation for M < 1",
+    "source": "mach_number.txt",
+    "chunk_id": 9,
+    "file_path": "aviation_data/wikipedia/mach_number.txt"
+  },
+  {
+    "content": "(above): M = 5 [ ( q c p + 1 ) 2 7 \u2212 1 ] {\\displaystyle \\mathrm {M} ={\\sqrt {5\\left[\\left({\\frac {q_{c}}{p}}+1\\right)^{\\frac {2}{7}}-1\\right]}}\\,} The formula to compute Mach number in a supersonic compressible flow can be found from the Rayleigh supersonic pitot equation (above) using parameters for air: M \u2248 0.88128485 ( q c p + 1 ) ( 1 \u2212 1 7 M 2 ) 2.5 {\\displaystyle \\mathrm {M} \\approx 0.88128485{\\sqrt {\\left({\\frac {q_{c}}{p}}+1\\right)\\left(1-{\\frac {1}{7\\,\\mathrm {M} ^{2}}}\\right)^{2.5}}}} where: As can be seen, M appears on both sides of the equation, and for practical purposes a root-finding algorithm must be used for a numerical solution (the equation is a septic equation in M and, though some of these may be solved explicitly, the Abel\u2013Ruffini theorem guarantees that there exists",
+    "source": "mach_number.txt",
+    "chunk_id": 10,
+    "file_path": "aviation_data/wikipedia/mach_number.txt"
+  },
+  {
+    "content": "no general form for the roots of these polynomials). It is first determined whether M is indeed greater than 1.0 by calculating M from the subsonic equation. If M is greater than 1.0 at that point, then the value of M from the subsonic equation is used as the initial condition for fixed point iteration of the supersonic equation, which usually converges very rapidly. Alternatively, Newton's method can also be used.",
+    "source": "mach_number.txt",
+    "chunk_id": 11,
+    "file_path": "aviation_data/wikipedia/mach_number.txt"
+  },
+  {
+    "content": "In aviation safety, master minimum equipment list, or MMEL, is a categorized list of on-board systems, instruments and equipment that may be inoperative for flight in a specified aircraft model. Procedures or conditions may be associated with items on the list. Any airworthiness-related equipment or system not on the list must be functional for flight. The philosophy behind the MMEL is to authorize release of flight with inoperative equipment only when the inoperative equipment does not render the aircraft unsafe for the particular flight. MMEL is a base (kind of \"template\") for an operator (airline) own Minimum Equipment List (MEL) development. As most airlines schedule the majority of their flights during the day, being able to defer non-critical inoperative equipment with the MEL can",
+    "source": "minimum_equipment_list.txt",
+    "chunk_id": 0,
+    "file_path": "aviation_data/wikipedia/minimum_equipment_list.txt"
+  },
+  {
+    "content": "help prevent the plane from being hard grounded during the day allowing it to be fixed during overnight stays, preventing loss of revenue. This is permissible as aircraft have a significant number of redundant systems (or systems that are not expressly required to be functional for safe flight) and thus some systems can be inoperative without impacting overall safety. While the MEL will vary between operator it is always based on the MMEL defined by the aircraft manufacturer while MEL is prepared by the aircraft operator. This is done by referencing the MMEL from the manufacturer and tailoring it to that operator's aircraft based on the type and number of equipment installed on board. Initial issue of the MEL and its subsequent revisions are approved by the operator's regulating",
+    "source": "minimum_equipment_list.txt",
+    "chunk_id": 1,
+    "file_path": "aviation_data/wikipedia/minimum_equipment_list.txt"
+  },
+  {
+    "content": "authority. Generally, to release an aircraft on an MEL deferral will require an aircraft maintenance technician to inspect the aircraft and confirm the reported fault. The technician will then consult the MEL and confirm the aircraft meets the requirements of the MEL before carrying out the procedures to apply the MEL. These procedures will typically involve tagging out and placarding the equipment as inoperative as well as noting aircraft performance reduction as applicable. MEL deferrals often come with stipulations: they may only be allowed for a set number of flight hours, cycles or calendar days before the fault needs to be corrected. Additionally, some may also require monitoring inspections at a fixed interval while the equipment is on MEL. As an example, take an Airbus A320 with",
+    "source": "minimum_equipment_list.txt",
+    "chunk_id": 2,
+    "file_path": "aviation_data/wikipedia/minimum_equipment_list.txt"
+  },
+  {
+    "content": "an inoperative landing light. The aircraft is certified to be equipped with two landing lights, two taxi lights and two runway turn off lights. Per the FAA approved MMEL for the A320 family, the aircraft would be permitted to fly at night with one landing light inoperative provided the taxi and takeoff lights work properly. Alternatively, the aircraft would be permitted to fly with both landing lights inoperative provided it is not operating at night. In addition to the MEL, most operators will have additional lists for deferring inoperative equipment. The configuration deviation list (CDL) serves the same function as the MEL but for the structure of the aircraft and its flight controls. The non-essential furnishings (NEF) also serves the same function as the MEL/CDL, though for interior",
+    "source": "minimum_equipment_list.txt",
+    "chunk_id": 3,
+    "file_path": "aviation_data/wikipedia/minimum_equipment_list.txt"
+  },
+  {
+    "content": "equipment and furnishings. Typically, NEF deferrals can be signed off by the flight crew to defer interior components without requiring a mechanic to inspect the aircraft - though this will depend on the operator and regulating body. Minimum equipment lists are issued to specific aircraft and specific operators. In order to use a minimum equipment list, that specific company must receive a letter of authorization from the civil aviation authorities of the countries where the aircraft will operate. A minimum equipment list is required in the United States by the Federal Aviation Administration: The same kind of regulation is also enforced by its regulatory counterpart in other nations, such as the European Aviation Safety Agency, the FAA European counterpart.",
+    "source": "minimum_equipment_list.txt",
+    "chunk_id": 4,
+    "file_path": "aviation_data/wikipedia/minimum_equipment_list.txt"
+  },
+  {
+    "content": "A flight dispatcher (also known as an airline dispatcher or flight operations officer) assists in planning flight paths, taking into account aircraft performance and loading, enroute winds, thunderstorm and turbulence forecasts, airspace restrictions, and airport conditions. Dispatchers also provide a flight following service and advise pilots if conditions change. They usually work in the operations center of the airline. In the United States and Canada, the flight dispatcher shares legal responsibility with the commander of the aircraft (joint responsibility dispatch system). Dispatchers usually share responsibility for the exercise of operational control, which gives them authority to divert, delay or cancel a flight. Legal requirements known as \"14 CFR part 121\" govern dispatch",
+    "source": "flight_dispatcher.txt",
+    "chunk_id": 0,
+    "file_path": "aviation_data/wikipedia/flight_dispatcher.txt"
+  },
+  {
+    "content": "release in the United States. After the release of a flight (in a joint responsibility environment) the dispatcher uses sophisticated software tools to monitor the flight's progress and advises the flight crew of any circumstances that might affect flight safety. They are in constant communication with the air crew and could be contacted through phone, radio, and ACARS (aircraft communications and reporting system). Shared responsibility adds a layer of checks and balances to aircraft operation and greatly improves safety. Joint Aviation Authorities (JAR) OPS 1 did mandate the use of an operational control system with flight dispatchers/joint responsibility/flight watch. The European Union Aviation Safety Agency (EASA) has implemented operational control system requirements and continues",
+    "source": "flight_dispatcher.txt",
+    "chunk_id": 1,
+    "file_path": "aviation_data/wikipedia/flight_dispatcher.txt"
+  },
+  {
+    "content": "to develop enhanced training standards for flight operations officers and flight dispatchers to align with ICAO Annex 6 provisions.\" The International Civil Aviation Organization (ICAO), headquartered in Montreal, is the civil aviation branch of the UN (United Nations). ICAO states that the operator (the airline), is responsible for the operational control of its flights and only recognizes dispatch systems using flight dispatchers/flight operations officers as the means to control and supervise flights in Annex 6, Part 1, Chapter 3. Chapter 4 of Annex 6 describes the duties of flight dispatchers/flight operations officers while Chapter 10 of Annex 6 describes the training and qualification requirements for flight dispatchers/flight operations officers. ICAO has updated its guidance with",
+    "source": "flight_dispatcher.txt",
+    "chunk_id": 2,
+    "file_path": "aviation_data/wikipedia/flight_dispatcher.txt"
+  },
+  {
+    "content": "Document 10106, 'Manual on Flight Operations Officers/Flight Dispatchers Competency-based Training and Assessment' (2024), which provides current standards for competency-based training programs The terms \"flight dispatcher\", \"aircraft dispatcher\" and \"flight operations officer\" are largely interchangeable depending on the area of the world in which they are used. The term \"Aircraft dispatcher\" is used in the United States, while \"flight operations officer\" is more common in Europe and Africa, and \"flight dispatcher\" is typically used in Asia and the Middle East. A dispatcher must be certified by the aviation authority of the country in which they operate or have a base of operations, such as the DGCA in India and the FAA/DOT (Federal Aviation Administration/Department of Transportation)",
+    "source": "flight_dispatcher.txt",
+    "chunk_id": 3,
+    "file_path": "aviation_data/wikipedia/flight_dispatcher.txt"
+  },
+  {
+    "content": "in the United States. In order to obtain a certificate, a candidate must demonstrate extensive knowledge of meteorology and of aviation in general, to a level comparable to the holder of an Airline Transport Pilot (ATP) certificate. The FAA ATP and the FAA Dispatcher (ADX) written exams are similar. For airlines operating under 14 CFR Part 135, dispatching duties and responsibilities are actually designated to \"flight followers.\" The main difference between a flight dispatcher and a flight follower is that the latter does not share legal responsibility for the operation of a flight. In addition, a flight follower is not required to obtain a dispatcher's certificate, although he or she is usually encouraged to do so by the airline for which they work and will probably not be employed as a",
+    "source": "flight_dispatcher.txt",
+    "chunk_id": 4,
+    "file_path": "aviation_data/wikipedia/flight_dispatcher.txt"
+  },
+  {
+    "content": "flight follower if they do not have the dispatcher certificate. Many countries issue licenses or certificates which are based on ICAO Annex 1 and 6 as well as ICAO DOC 7192 D3. Unfortunately not all countries have adopted a mandatory license/certification and joint responsibility/flight watch operational control systems. The FAA has mandated the use of flight dispatchers/joint responsibility/flight watch since the \"Civil Aeronautic Act\" was passed in 1938. Canada has adopted a similar approach in the wake of the Air Ontario Flight 1363 plane crash in Dryden, Ontario, in 1989. Due to several more accidents, the FAA is lobbying the ICAO for tighter regulations. In the United States, to be eligible for an aircraft dispatcher certificate, a person must be at least 23 years of age and complete",
+    "source": "flight_dispatcher.txt",
+    "chunk_id": 5,
+    "file_path": "aviation_data/wikipedia/flight_dispatcher.txt"
+  },
+  {
+    "content": "a minimum of 200 hours of approved training. As of May 2024, the FAA incorporated updated Aircraft Dispatcher Practical Test Standards into certification requirements under 14 CFR Part 65. \"Airman Certification Standards and Practical Test Standards for Airmen; Incorporation by Reference\". Federal Register. Federal Aviation Administration. 2024-04-01. pp. 22520\u201322530. Retrieved 2025-01-30. Flight dispatchers are legally 50% responsible for the safety of every flight they dispatch. The pilot in command of the flight holds responsibility for the other 50%. A flight dispatcher has the legal authority to refuse to dispatch a flight if safety is in any way in question, as does the pilot in command. This is known as 'Co-Authority Dispatch'. Because commercial decision making in an airline can",
+    "source": "flight_dispatcher.txt",
+    "chunk_id": 6,
+    "file_path": "aviation_data/wikipedia/flight_dispatcher.txt"
+  },
+  {
+    "content": "conflict with the safety of a flight, a flight dispatcher's responsibilities are kept separate from the commercial aspects of an airline's operation, and as such the profession is primarily focused on the safety of a flight; all other duties are secondary. Flight dispatchers in a typical airline are generally responsible for overseeing anywhere from 10 to 25 flights simultaneously, depending on the daily ops tempo/operation as some flights are much more strenuous than others as an ETOPS Air charter requires much more attention than those of a regular scheduled flight. All the while dispatchers are also constantly planning new flights while monitoring current ones. Flight dispatchers are expected to have a big picture view of weather conditions, aircraft status, fuel planning, and other",
+    "source": "flight_dispatcher.txt",
+    "chunk_id": 7,
+    "file_path": "aviation_data/wikipedia/flight_dispatcher.txt"
+  },
+  {
+    "content": "operational aspects of maintaining smooth airline operations. Because of the constantly changing nature of airline operations, flight dispatchers experience a high level of stress in the workplace, as they balance operational constraints and pressures with the overriding safety mandate of the job. Often (especially in larger airlines) a dispatcher will be assisted by a load planner. They must carefully plan the loading of the aircraft and do the weight and balance calculations for the aircraft. In some cargo aircraft, they have to visually inspect the loading, making sure it has been done in accordance with their instructions. When a load planner is on board the airplane as a member of the crew, he or she will be in charge of planning, loading and offloading the cargo for the duration of",
+    "source": "flight_dispatcher.txt",
+    "chunk_id": 8,
+    "file_path": "aviation_data/wikipedia/flight_dispatcher.txt"
+  },
+  {
+    "content": "the flight, and is known as loadmaster. In some jurisdictions of the US, similar duties and responsibilities are designated to flight followers. The main difference between the aircraft dispatcher and the flight follower is that the latter does not share legal responsibility for the operation of a flight. During the flight, the dispatcher is required to monitor and advise the crew of changes affecting safety of flight. In flight following, ultimate responsibility and operational control of the flight rests with the Pilot in command and Director of Operations (DO). Flight followers work for the Director of Operations and are tasked with carrying out operational control functions. Flight followers are not required to attain a flight dispatcher's certificate, although they are usually",
+    "source": "flight_dispatcher.txt",
+    "chunk_id": 9,
+    "file_path": "aviation_data/wikipedia/flight_dispatcher.txt"
+  },
+  {
+    "content": "Flight planning is the process of producing a flight plan to describe a proposed aircraft flight. It involves two safety-critical aspects: fuel calculation, to ensure that the aircraft can safely reach the destination, and compliance with air traffic control requirements, to minimise the risk of midair collision. In addition, flight planners normally wish to minimise flight cost through the appropriate choice of route, height, and speed, and by loading the minimum necessary fuel on board. Air Traffic Services (ATS) use the completed flight plan for separation of aircraft in air traffic management services, including tracking and finding lost aircraft, during search and rescue (SAR) missions. Flight planning typically includes route selection, fuel calculation, alternate aerodrome",
+    "source": "flight_planning.txt",
+    "chunk_id": 0,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "planning, weight and balance considerations, and an assessment of meteorological conditions. Flight planning requires accurate weather forecasts so that fuel consumption calculations can account for the fuel consumption effects of head or tail winds and air temperature. Safety regulations require aircraft to carry fuel beyond the minimum needed to fly from origin to destination, allowing for unforeseen circumstances or for diversion to another airport if the planned destination becomes unavailable. Furthermore, under the supervision of air traffic control, aircraft flying in controlled airspace must follow predetermined routes known as airways (at least where they have been defined), even if such routes are not as economical as a more direct flight. Within these airways, aircraft must",
+    "source": "flight_planning.txt",
+    "chunk_id": 1,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "maintain flight levels, specified altitudes usually separated vertically by 1,000 or 2,000 ft (300 or 610 m), depending on the route being flown and the direction of travel. When aircraft with only two engines are flying long distances across oceans, deserts, or other areas with no airports, they have to satisfy additional ETOPS safety rules to ensure they can reach an emergency airport if one engine fails. Producing an accurate optimised flight plan requires millions of calculations, so commercial flight planning systems make extensive use of computers (an approximate unoptimised flight plan can be produced using an E6B and a map in an hour or so, but more allowance must be made for unforeseen circumstances). When computer flight planning replaced manual flight planning for eastbound",
+    "source": "flight_planning.txt",
+    "chunk_id": 2,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "flights across the North Atlantic, the average fuel consumption was reduced by about 450 kg (1,000 lb) per flight, and the average flight times were reduced by about 5 minutes per flight. Some commercial airlines have their own internal flight planning system, while others employ the services of external planners. A licensed flight dispatcher or flight operations officer is required by law to carry out flight planning and flight watch tasks in many commercial operating environments (e.g., US FAR \u00a7121, Canadian regulations). These regulations vary by country but more and more countries require their airline operators to employ such personnel. A flight planning system may need to produce more than one flight plan for a single flight: The basic purpose of a flight planning system is to",
+    "source": "flight_planning.txt",
+    "chunk_id": 3,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "calculate how much trip fuel is needed in the air navigation process by an aircraft when flying from an origin airport to a destination airport. Aircraft must also carry some reserve fuel to allow for unforeseen circumstances, such as an inaccurate weather forecast, or air traffic control requiring an aircraft to fly at a lower-than-optimal altitude due to airway congestion, or the addition of last-minute passengers whose weight was not accounted for when the flight plan was prepared. The way in which reserve fuel is determined varies greatly, depending on airline and locality. The most common methods are: Except for some US domestic flights, a flight plan normally has an alternate airport as well as a destination airport. The alternate airport is for use in case the destination airport",
+    "source": "flight_planning.txt",
+    "chunk_id": 4,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "becomes unusable while the flight is in progress (due to weather conditions, a strike, a crash, terrorist activity, etc.). This means that when the aircraft gets near the destination airport, it must still have enough alternate fuel and alternate reserve available to fly on to the alternate airport. Since the aircraft is not expected at the alternate airport, it must also have enough holding fuel to circle for a while (typically 30 minutes) near the alternate airport while a landing slot is found. United States domestic flights are not required to have sufficient fuel to proceed to an alternate airport when the weather at the destination is forecast to be better than 2,000-foot (610 m) ceilings and 3 statute miles of visibility; however, the 45-minute reserve at normal cruising speed",
+    "source": "flight_planning.txt",
+    "chunk_id": 5,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "still applies. It is often considered a good idea to have the alternate some distance away from the destination (e.g., 185 km (100 nmi; 115 mi)) so that bad weather is unlikely to close both the destination and the alternate; distances of up to 960 kilometres (520 nmi; 600 mi) are not unknown. In some cases the destination airport may be so remote (e.g., a Pacific island) that there is no feasible alternate airport; in such a situation an airline may instead include enough fuel to circle for 2 hours near the destination, in the hope that the airport will become available again within that time. There is often more than one possible route between two airports. Subject to safety requirements, commercial airlines generally wish to minimise costs by appropriate choice of route, speed, and",
+    "source": "flight_planning.txt",
+    "chunk_id": 6,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "height. Various names are given to weights associated with an aircraft and/or the total weight of the aircraft at various stages. When twin-engine aircraft are flying across oceans, deserts, and the like, the route must be carefully planned so that the aircraft can always reach an airport, even if one engine fails. The applicable rules are known as ETOPS (ExTended range OPerationS). The general reliability of the particular type of aircraft and its engines and the maintenance quality of the airline are taken into account when specifying how long such an aircraft may fly with only one engine operating (typically 1\u20133 hours). Flight planning systems must be able to cope with aircraft flying below sea level, which will often result in a negative altitude. For example, Amsterdam Schiphol",
+    "source": "flight_planning.txt",
+    "chunk_id": 7,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "Airport has an elevation of \u22123 metres. The surface of the Dead Sea is 417 metres below sea level, so low-level flights in this vicinity can be well below sea level. Flight plans mix metric and non-metric units of measurement. The particular units used may vary by aircraft, airline, and location across a flight. Since 1979, the International Civil Aviation Organization (ICAO) has recommended a unification of units of measurement within aviation based on the International System of Units (SI). Since 2010, ICAO recommends using: However, a termination date for completion of metrication has not been established. While SI units technically are preferred, various non-SI units are still in widespread use within commercial aviation: Distances are nearly always measured in nautical miles, as",
+    "source": "flight_planning.txt",
+    "chunk_id": 8,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "calculated at a height of 32,000 feet (9,800 m), compensated for the fact that the earth is an oblate spheroid rather than a perfect sphere. Aviation charts always show distances as rounded to the nearest nautical mile, and these are the distances that are shown on a flight plan. Flight planning systems may need to use the unrounded values in their internal calculations for improved accuracy. Fuel measurement will vary on the gauges fitted to a particular aircraft. The most common unit of fuel measurement is kilograms; other possible measures include pounds, UK gallons, US gallons, and litres. When fuel is measured by weight, the specific gravity of the fuel used is taken into account when checking tank capacity. There has been at least one occasion on which an aircraft ran out of fuel",
+    "source": "flight_planning.txt",
+    "chunk_id": 9,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "due to an error in converting between kilograms and pounds. In this particular case the flight crew managed to glide to a nearby runway and land safely (the runway was one of two at a former airport then being used as a dragstrip). Many airlines request that fuel quantities be rounded to a multiple of 10 or 100 units. This can cause some interesting rounding problems, especially when subtotals are involved. Safety issues must also be considered when deciding whether to round up or down. The altitude of an aircraft is based on the use of a pressure altimeter (see flight level for more detail). The heights quoted here are thus the nominal heights under standard conditions of temperature and pressure rather than the actual heights. All aircraft operating on flight levels calibrate altimeters",
+    "source": "flight_planning.txt",
+    "chunk_id": 10,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "to the same standard setting regardless of the actual sea level pressure, so little risk of collision arises. In most areas, height is reported as a multiple of 100 feet (30 m), i.e. A025 is nominally 2,500 feet (760 m). When cruising at higher altitudes aircraft adopt flight levels (FLs). Flight levels are altitudes corrected and calibrated against the International Standard Atmosphere (ISA). These are expressed as a three-figure group e.g., FL320 is 32,000 ft (9,800 m) ISA. In most areas, the vertical separation between aircraft is either 1,000 or 2,000 ft (300 or 610 m). In Russia, China and some neighbouring areas, altitudes are measured in metres. The vertical separation between aircraft is either 300 metres or 600 metres (about 1.6% less than 1,000 or 2,000 feet). Until 1999, the",
+    "source": "flight_planning.txt",
+    "chunk_id": 11,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "vertical separation between aircraft flying at high altitudes on the same airway was 2,000 feet (610 m). Since then there has been a phased introduction around the world of reduced vertical separation minimum (RVSM). This cuts the vertical separation to 1,000 feet (300 m) between flight levels 290 and 410 (the exact limits vary slightly from place to place). Since most jet aircraft operate between these heights, this measure effectively doubles the available airway capacity. To use RVSM, aircraft must have certified altimeters, and autopilots must meet more accurate standards. Aircraft cruising at lower altitudes normally use knots as the primary speed unit, while aircraft that are higher (above Mach Crossover Altitude) normally use Mach number as the primary speed unit, though flight",
+    "source": "flight_planning.txt",
+    "chunk_id": 12,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "plans often include the equivalent speed in knots as well (the conversion includes allowance for temperature and height). In a flight plan, a Mach number of \"Point 82\" means that the aircraft is travelling at 0.820 (82%) of the speed of sound. The widespread use of global positioning systems (GPS) allows cockpit navigation systems to provide air speed and ground speed more or less directly. Another method of obtaining speed and position is the inertial navigation system (INS), which keeps track of a vehicle's acceleration using gyroscopes and linear accelerometers; this information can then be integrated in time to obtain speed and position, as long as the INS was properly calibrated before departure. INS has been present in civil aviation for a few decades and is mostly used in medium to",
+    "source": "flight_planning.txt",
+    "chunk_id": 13,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "large aircraft as the system is fairly complex. If neither GPS or INS is used, the following steps are required to obtain speed information: The weight of an aircraft is most commonly measured in kilograms, but may sometimes be measured in pounds, especially if the fuel gauges are calibrated in pounds or gallons. Many airlines request that weights be rounded to a multiple of 10 or 100 units. Great care is needed when rounding to ensure that physical constraints are not exceeded. When chatting informally about a flight plan, approximate weights of fuel and/or aircraft may be referred to in tons. This \"ton\" is generally either a metric tonne or a UK long ton, which differ by less than 2%, or a short ton, which is about 10% less. A route is a description of the path followed by an aircraft",
+    "source": "flight_planning.txt",
+    "chunk_id": 14,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "when flying between airports. Most commercial flights will travel from one airport to another, but private aircraft, commercial sightseeing tours, and military aircraft may do a circular or out-and-back trip and land at the same airport from which they took off. Aircraft fly on airways under the direction of air traffic control. An airway has no physical existence, but can be thought of as a motorway in the sky. On an ordinary motorway, cars use different lanes to avoid collisions, while on an airway, aircraft fly at different flight levels to avoid collisions. One can often see planes passing directly above or below one's own. Charts showing airways are published and are usually updated every 4 weeks, coinciding with the AIRAC cycle. AIRAC (Aeronautical Information Regulation and",
+    "source": "flight_planning.txt",
+    "chunk_id": 15,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "Control) occurs every fourth Thursday, when every country publishes its changes, which are usually to airways. Each airway starts and finishes at a waypoint, and may contain some intermediate waypoints as well. Waypoints use five letters (e.g., PILOX), and those that double as non-directional beacons use three or two (TNN, WK). Airways may cross or join at a waypoint, so an aircraft can change from one airway to another at such points. A complete route between airports often uses several airways. Where there is no suitable airway between two waypoints, and using airways would result in a somewhat roundabout route, air traffic control may allow a direct waypoint-to-waypoint routing, which does not use an airway (often abbreviated in flight plans as \"DCT\"). Most waypoints are classified as",
+    "source": "flight_planning.txt",
+    "chunk_id": 16,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "compulsory reporting points; that is, the pilot (or the onboard flight management system) reports the aircraft's position to air traffic control as the aircraft passes a waypoint. There are two main types of waypoints: Note that airways do not connect directly to airports. Special routes known as ocean tracks are used across some oceans, mainly in the Northern Hemisphere, to increase traffic capacity on busy routes. Unlike ordinary airways, which change infrequently, ocean tracks change twice a day, so as to take advantage of favourable winds. Flights going with the jet stream may be an hour shorter than those going against it. Ocean tracks may start and finish about 100 miles offshore at named waypoints, to which a number of airways connect. Tracks across northern oceans are suitable for",
+    "source": "flight_planning.txt",
+    "chunk_id": 17,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "east\u2013west or west\u2013east flights, which constitute the bulk of the traffic in these areas. There are a number of ways of constructing a route. All scenarios using airways use SIDs and STARs for departure and arrival. Any mention of airways might include a very small number of \"direct\" segments to allow for situations when there are no convenient airway junctions. In some cases, political considerations may influence the choice of route (e.g., aircraft from one country cannot overfly some other country). Even in a free-flight area, air traffic control still requires a position report about once an hour. Flight planning systems organise this by inserting geographic waypoints at suitable intervals. For a jet aircraft, these intervals are 10 degrees of longitude for eastbound or westbound",
+    "source": "flight_planning.txt",
+    "chunk_id": 18,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "flights and 5 degrees of latitude for northbound or southbound flights. In free-flight areas, commercial aircraft normally follow a least-time-track so as to use as little time and fuel as possible. A great circle route would have the shortest ground distance, but is unlikely to have the shortest air distance, due to the effect of head or tail winds. A flight planning system may have to perform significant analysis to determine a good free-flight route. Calculation of fuel requirements (especially trip fuel and reserve fuel) is the most safety-critical aspect of flight planning. This calculation is somewhat complicated: Fuel calculation must take many factors into account. The weight of fuel forms a significant part of the total weight of an aircraft, so any fuel calculation must take",
+    "source": "flight_planning.txt",
+    "chunk_id": 19,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "into account the weight of any fuel not yet burned. Instead of trying to predict the fuel load not yet burned, a flight planning system can handle this situation by working backward along the route, starting at the alternate, going back to the destination, and then going back waypoint by waypoint to the origin. A more detailed outline of the calculation follows. Several (possibly many) iterations are usually required, either to calculate interdependent values such as reserve fuel and trip fuel, or to cope with situations where some physical constraint has been exceeded. In the latter case it is usually necessary to reduce the payload (less cargo or fewer passengers). Some flight planning systems use elaborate systems of approximate equations to simultaneously estimate all the changes",
+    "source": "flight_planning.txt",
+    "chunk_id": 20,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "required; this can greatly reduce the number of iterations needed. An alternative approach to fuel calculation is to calculate alternate and holding fuel as above and obtain some estimate of the total trip fuel requirement, either based on previous experience with that route and aircraft type, or by using some approximate formula; neither method can take much account of weather. Calculation can then proceed forward along the route, waypoint by waypoint. On reaching the destination, the actual trip fuel can be compared with the estimated trip fuel, a better estimate made, and the calculation repeated as required. Commercial airlines generally wish to keep the cost of a flight as low as possible. There are three main factors that contribute to the cost: Different airlines have different",
+    "source": "flight_planning.txt",
+    "chunk_id": 21,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "views as to what constitutes a least-cost flight: For any given route, a flight planning system can reduce cost by finding the most economical speed at any given altitude and by finding the best altitude(s) to use based on the predicted weather. Such local optimisation can be done on a waypoint-by-waypoint basis. Commercial airlines do not want an aircraft to change altitude too often (among other things, it may make it more difficult for the cabin crew to serve meals), so they often specify some minimum time between optimisation-related flight level changes. To cope with such requirements, a flight planning system must be capable of non-local altitude optimisation by simultaneously taking a number of waypoints into account, along with the fuel costs for any short climbs that may be",
+    "source": "flight_planning.txt",
+    "chunk_id": 22,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "required. When there is more than one possible route between the origin and destination airports, the task facing a flight planning system becomes more complicated, since it must now consider many routes in order to find the best available route. Many situations have tens or even hundreds of possible routes, and there are some situations with over 25,000 possible routes (e.g., London to New York with free-flight below the track system). The amount of calculation required to produce an accurate flight plan is so substantial that it is not feasible to examine every possible route in detail. A flight planning system must have some fast way of cutting the number of possibilities down to a manageable number before undertaking a detailed analysis. From an accountant's viewpoint, the provision",
+    "source": "flight_planning.txt",
+    "chunk_id": 23,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "of reserve fuel costs money (the fuel needed to carry the hopefully unused reserve fuel). Techniques known variously as reclear, redispatch, or decision point procedure have been developed, which can greatly reduce the amount of reserve fuel needed while still maintaining all required safety standards. These techniques are based on having some specified intermediate airport to which the flight can divert if necessary; in practice such diversions are rare. The use of such techniques can save several tons of fuel on long flights, or it can increase the payload carried by a similar amount. A reclear flight plan has two destinations. The final destination airport is where the flight is really going to, while the initial destination airport is where the flight will divert to if more fuel is",
+    "source": "flight_planning.txt",
+    "chunk_id": 24,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "used than expected during the early part of the flight. The waypoint at which the decision is made as to which destination to go to is called the reclear fix or decision point. On reaching this waypoint, the flight crew make a comparison between actual and predicted fuel burn and check how much reserve fuel is available. If there is sufficient reserve fuel, then the flight can continue to the final destination airport; otherwise the aircraft must divert to the initial destination airport. The initial destination is positioned so that less reserve fuel is needed for a flight from the origin to the initial destination than for a flight from the origin to the final destination. Under normal circumstances, little if any of the reserve fuel is actually used, so when the aircraft reaches the",
+    "source": "flight_planning.txt",
+    "chunk_id": 25,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "reclear fix it still has (almost) all the original reserve fuel on board, which is enough to cover the flight from the reclear fix to the final destination. The idea of reclear flights was first published in Boeing Airliner (1977) by Boeing engineers David Arthur and Gary Rose. The original paper contains a lot of magic numbers relating to the optimum position of the reclear fix and so on. These numbers apply only to the specific type of aircraft considered, for a specific reserve percentage, and take no account of the effect of weather. The fuel savings due to reclear depend on three factors: Despite all the effort taken to optimise flight plans, there are certain circumstances in which it is advantageous to file suboptimal plans. In busy airspace with a number of competing aircraft, the",
+    "source": "flight_planning.txt",
+    "chunk_id": 26,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "optimum routes and preferred altitudes may be oversubscribed. This problem can be worse in busy periods, such as when everyone wants to arrive at an airport as soon as it opens for the day. If all the aircraft file optimal flight plans then to avoid overloading, air traffic control may refuse permission for some of the flight plans or delay the allocated takeoff slots. To avoid this a suboptimal flight plan can be filed, asking for an inefficiently low altitude or a longer, less congested route. Once airborne, part of the pilot's job is to fly as efficiently as possible so he/she might then try to convince air traffic control to allow them to fly closer to the optimum route. This might involve requesting a higher flight level than in the plan or asking for a more direct routing. If the",
+    "source": "flight_planning.txt",
+    "chunk_id": 27,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "controller does not immediately agree, it may be possible to re-request occasionally until they relent. Alternatively, if there has been any bad weather reported in the area, a pilot might request a climb or turn to avoid weather. Even if the pilot does not manage to revert to the optimal route, the benefits of being allowed to fly may well outweigh the cost of the suboptimal route. Although VFR flights often do not require filing a flight plan, a certain amount of flight planning remains necessary. The captain has to make sure that there will be enough fuel on board for the trip and sufficient reserve fuel for unforeseen circumstances. Weight and centre of gravity must remain within their limits during the whole flight. The captain must prepare an alternate flight plan for when landing",
+    "source": "flight_planning.txt",
+    "chunk_id": 28,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "at the original destination is not possible. In Canada, however, the regulations state that \"... no pilot-in-command shall operate an aircraft in VFR flight unless a VFR flight plan or a VFR flight itinerary has been filed, except where the flight is conducted within 25 NM of the departure aerodrome.\" Over and above the various cost-reduction measures mentioned above, flight planning systems may offer extra features to help attract and retain customers:",
+    "source": "flight_planning.txt",
+    "chunk_id": 29,
+    "file_path": "aviation_data/wikipedia/flight_planning.txt"
+  },
+  {
+    "content": "The fuel economy in aircraft is the measure of the transport energy efficiency of aircraft. Fuel efficiency is increased with better aerodynamics and by reducing weight, and with improved engine brake-specific fuel consumption and propulsive efficiency or thrust-specific fuel consumption. Endurance and range can be maximized with the optimum airspeed, and economy is better at optimum altitudes, usually higher. An airline efficiency depends on its fleet fuel burn, seating density, air cargo and passenger load factor, while operational procedures like maintenance and routing can save fuel. Average fuel burn of new aircraft fell 45% from 1968 to 2014, a compounded annual reduction 1.3% with a variable reduction rate. In 2018, CO2 emissions totalled 747 million tonnes for passenger transport,",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 0,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "for 8.5 trillion revenue passenger kilometers (RPK), giving an average of 88 grams CO2 per RPK; this represents 28 g of fuel per kilometer, or a 3.5 L/100 km (67 mpg\u2011US) fuel consumption per passenger, on average. The worst-performing flights are short trips of from 500 to 1500 kilometers because the fuel used for takeoff is relatively large compared to the amount expended in the cruise segment, and because less fuel-efficient regional jets are typically used on shorter flights. New technology can reduce engine fuel consumption, like higher pressure and bypass ratios, geared turbofans, open rotors, hybrid electric or fully electric propulsion; and airframe efficiency with retrofits, better materials and systems and advanced aerodynamics. A powered aircraft counters its weight through",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 1,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "aerodynamic lift and counters its aerodynamic drag with thrust. The aircraft's maximum range is determined by the level of efficiency with which thrust can be applied to overcome the aerodynamic drag. A subfield of fluid dynamics, aerodynamics studies the physics of a body moving through the air. As lift and drag are functions of air speed, their relationships are major determinants of an aircraft's design efficiency. Aircraft efficiency is augmented by maximizing lift-to-drag ratio, which is attained by minimizing parasitic drag, and lift-generated induced drag, the two components of aerodynamic drag. As parasitic drag increases and induced drag decreases with speed, there is an optimum speed where the sum of both is minimal; this is the best glide ratio. For powered aircraft, the",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 2,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "optimum glide ratio has to be balanced with thrust efficiency. Parasitic drag is constituted by form drag and skin-friction drag, and grows with the square of the speed in the drag equation. The form drag is minimized by having the smallest frontal area and by streamlining the aircraft for a low drag coefficient, while skin friction is proportional to the body's surface area, and can be reduced by maximizing laminar flow. Induced drag can be reduced by decreasing the size of the airframe, fuel and payload weight, and by increasing the wing aspect ratio or by using wingtip devices at the cost of increased structure weight. By increasing efficiency, a lower cruise-speed augments the range and reduces the environmental impact of aviation. According to a research project completed in 2024 and",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 3,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "focusing on short to medium range passenger aircraft, design for subsonic instead of transonic speed (about 15% less speed) with turboprop instead of turbofan propulsion would save 21% of fuel compared to an aircraft of conventional design speed and similar characteristics in terms of size, range and expected general technology improvements. Another analysis from 2014 compared the Airbus 320 from 2009 with a hypothetical turboprop successor flying at a 33% lower Mach number, concluding that the slower aircraft would have 36% less fuel consumption. Both state that the decrease of fuel costs enabled by lower design speed would overcompensate the increase of time-related costs resp. the decrease in revenue passenger miles flown per day. In other words, subsonic turboprop aircraft would be",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 4,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "more profitable than transonic turbofan aircraft even at current energy prices without additional costs related to climate action like emission fees, aviation fuel taxation or higher prices for sustainable aviation fuels compared to fossile kerosene. For supersonic flight, drag increases at Mach 1.0 but decreases again after the transition. With a specifically designed aircraft, such as the (discontinued) Aerion AS2, the Mach 1.1 range at 3,700 nmi is 70% of the maximum range of 5,300 nmi at Mach 0.95, but increases to 4,750 nmi at Mach 1.4 for 90% before falling again. Wingtip devices increase the effective wing aspect ratio, lowering lift-induced drag caused by wingtip vortices and improving the lift-to-drag ratio without increasing the wingspan. (Wingspan is limited by the available",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 5,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "width in the ICAO Aerodrome Reference Code.) Airbus installed wingtip fences on its planes since the A310-300 in 1985, and Sharklet blended-winglets for the A320 were launched during the November 2009 Dubai Airshow. They add 200 kilograms (440 lb) but offer a 3.5% fuel burn reduction on flights over 2,800 km (1,500 nmi). On average, among large commercial jets, Boeing 737-800s benefit the most from winglets. They average a 6.69% increase in efficiency but depending on the route have a fuel savings distribution spanning from 4.6% to 10.5%. Airbus A319s see the most consistent fuel and emissions savings from winglets. Airbus A321s average a 4.8% improvement in fuel consumption, but have the widest swing based on routes and individual aircraft, recognizing anywhere from 0.2% improvement to",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 6,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "10.75%. As the weight indirectly generates lift-induced drag, its minimization leads to better aircraft efficiency. For a given payload, a lighter airframe generates a lower drag. Minimizing weight can be achieved through the airframe's configuration, materials science and construction methods. To obtain a longer range, a larger fuel fraction of the maximum takeoff weight is needed, adversely affecting efficiency. The deadweight of the airframe and fuel is non-payload that must be lifted to altitude and kept aloft, contributing to fuel consumption. A reduction in airframe weight enables the use of smaller, lighter engines. The weight savings in both allow for a lighter fuel load for a given range and payload. A rule-of-thumb is that a reduction in fuel consumption of about 0.75% results",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 7,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "from each 1% reduction in weight. The payload fraction of modern twin-aisle aircraft is 18.4% to 20.8% of their maximum take-off weight, while single-aisle airliners are between 24.9% and 27.7%. An aircraft weight can be reduced with light-weight materials such as titanium, carbon fiber and other composite plastics if the expense can be recouped over the aircraft's lifetime. Fuel efficiency gains reduce the fuel carried, reducing the take-off weight for a positive feedback. For example, the Airbus A350 design includes a majority of light-weight composite materials. The Boeing 787 Dreamliner was the first airliner with a mostly composite airframe. For long-haul flights, the airplane needs to carry additional fuel, leading to higher fuel consumption. Above a certain distance it becomes more",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 8,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "fuel-efficient to make a halfway stop to refuel, despite the energy losses in descent and climb. For example, a Boeing 777-300 reaches that point at 3,000 nautical miles (5,600 km). It is more fuel-efficient to make a non-stop flight at less than this distance and to make a stop when covering a greater total distance. Very long non-stop passenger flights suffer from the weight penalty of the extra fuel required, which means limiting the number of available seats to compensate. For such flights, the critical fiscal factor is the quantity of fuel burnt per seat-nautical mile. For these reasons, the world's longest commercial flights were cancelled c. 2013. An example is Singapore Airlines' former New York to Singapore flight, which could carry only 100 passengers (all business class) on the",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 9,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "10,300-mile (16,600 km) flight. According to an industry analyst, \"It [was] pretty much a fuel tanker in the air.\" Singapore Airlines Flights 21 and 22 were re-launched in 2018 with more seats in an A350-900ULR. In the late 2000s/early 2010s, rising fuel prices coupled with the 2008 financial crisis and the Great Recession caused the cancellation of many ultra-long haul, non-stop flights. This included the services provided by Singapore Airlines from Singapore to both Newark and Los Angeles that was ended in late 2013. But as fuel prices decreased and more fuel-efficient aircraft have come into service, many ultra-long-haul routes were reinstated or newly scheduled (see Longest flights). The efficiency can be defined as the amount of energy imparted to the plane per unit of energy in the",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 10,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "fuel. The rate at which energy is imparted equals thrust multiplied by airspeed. To get thrust, an aircraft engine is either a shaft engine \u2013 piston engine or turboprop, with its efficiency inversely proportional to its brake-specific fuel consumption \u2013 coupled with a propeller having its own propulsive efficiency; or a jet engine with its efficiency given by its airspeed divided by the thrust-specific fuel consumption and the specific energy of the fuel. Turboprops have an optimum speed below 460 miles per hour (740 km/h). This is less than jets used by major airlines today, however propeller planes are much more efficient. The Bombardier Dash 8 Q400 turboprop is used for this reason as a regional airliner. Jet fuel cost and emissions reduction have renewed interest in the propfan",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 11,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "concept for jetliners with an emphasis on engine/airframe efficiency that might come into service beyond the Boeing 787 and Airbus A350XWB. For instance, Airbus has patented aircraft designs with twin rear-mounted counter-rotating propfans. Propfans bridge the gap between turboprops, losing efficiency beyond Mach 0.5-0.6, and high-bypass turbofans, more efficient beyond Mach 0.8. NASA has conducted an Advanced Turboprop Project (ATP), where they researched a variable-pitch propfan that produced less noise and achieved high speeds. In Europe in 2017, the average airline fuel consumption per passenger was 3.4 L/100 km (69 mpg\u2011US), 24% less than in 2005, but as the traffic grew by 60% to 1,643 billion passenger kilometers, CO2 emissions were up by 16% to 163 million tonnes for 99.8 g/km CO2",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 12,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "per passenger. In 2018, the US airlines had a fuel consumption of 58 mpg\u2011US (4.06 L/100 km) per revenue passenger for domestic flights, or 32.5 g of fuel per km, generating 102 g CO2 / RPK of emissions. In 2013, the World Bank evaluated the business class carbon footprint as 3.04 times higher than economy class in wide-body aircraft, and first class 9.28 times higher, due to premium seating taking more space, lower weight factors, and larger baggage allowances (assuming Load Factors of 80% for Economy Class, 60% for Business Class, and 40% for First Class). At constant propulsive efficiency, the maximum range speed is when the ratio between velocity and drag is minimal, while maximum endurance is attained at the best lift-to-drag ratio. Air density decreases with altitude, thus lowering",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 13,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "drag, assuming the aircraft maintains a constant equivalent airspeed. However, air pressure and temperature both decrease with altitude, causing the maximum power or thrust of aircraft engines to reduce. To minimize fuel consumption, an aircraft should cruise close to the maximum altitude at which it can generate sufficient lift to maintain its altitude. As the aircraft's weight decreases throughout the flight, due to fuel burn, its optimum cruising altitude increases. In a piston engine, the decrease in pressure at higher altitudes can be mitigated by the installation of a turbocharger. Decreasing temperature at higher altitudes increases thermal efficiency. Since early 2006 until 2008, Scandinavian Airlines was flying slower, from 860 to 780 km/h, to save on fuel costs and curb",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 14,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "emissions of carbon dioxide. From 2010 to 2012, the most fuel-efficient US domestic airline was Alaska Airlines, due partly to its regional affiliate Horizon Air flying turboprops. In 2014, MSCI ranked Ryanair as the lowest-emissions-intensity airline in its ACWI index with 75 g CO2-e/revenue passenger kilometer \u2013 below Easyjet at 82 g, the average at 123 g and Lufthansa at 132 g \u2013 by using high-density 189-seat Boeing 737-800s. In 2015 Ryanair emitted 8.64 Bn t of CO2 for 545,034 sectors flown: 15.85 t per 776 miles (674 nmi; 1,249 km) average sector (or 5.04 t of fuel: 4.04 kg/km) representing 95 kg per 90.6 million passengers (30.4 kg of fuel: 3.04 L/100 km or 76 g CO2/km). In 2016, over the transpacific routes, the average fuel consumption was 31 pax-km per L (3.23 L/100 km [73",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 15,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "mpg\u2011US] per passenger). The most fuel-efficient were Hainan Airlines and ANA with 36 pax-km/L (2.78 L/100 km [85 mpg\u2011US] per passenger) while Qantas was the least efficient at 22 pax-km/L (4.55 L/100 km [51.7 mpg\u2011US] per passenger). Key drivers for efficiency were the air freight share for 48%, seating density for 24%, aircraft fuel burn for 16% and passenger load factor for 12%. That same year, Cathay Pacific and Cathay Dragon consumed 4,571,000 tonnes of fuel to transport 123,478 million revenue passenger kilometers, or 37 g/RPK, 25% better than in 1998: 4.63 L/100 km (50.8 mpg\u2011US). Again in 2016, the Aeroflot Group fuel consumption is 22.9g/ASK, or 2.86 L/100 km (82 mpg\u2011US) per seat, 3.51 L/100 km (67.0 mpg\u2011US) per passenger at its 81.5% load factor. Fuel economy in air transport comes",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 16,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "from the fuel efficiency of the aircraft + engine model, combined with airline efficiency: seating configuration, passenger load factor and air cargo. Over the transatlantic route, the most-active intercontinental market, the average fuel consumption in 2017 was 34 pax-km per L (2.94 L/100 km [80 mpg\u2011US] per passenger). The most fuel-efficient airline was Norwegian Air Shuttle with 44 pax-km/L (2.27 L/100 km [104 mpg\u2011US] per passenger), thanks to its fuel-efficient Boeing 787-8, a high 85% passenger load factor and a high density of 1.36 seat/m due to a low 9% premium seating. On the other side, the least efficient was British Airways at 27 pax-km/L (3.7 L/100 km [64 mpg\u2011US] per passenger), using fuel-inefficient Boeing 747-400s with a low density of 0.75 seat/m due to a high 25% premium",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 17,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "seating, in spite of a high 82% load factor. In 2018, CO2 emissions totalled 918 Mt with passenger transport accounting for 81% or 744 Mt, for 8.2 trillion revenue passenger kilometers: an average fuel economy of 90.7 g/RPK CO2 - 29 g/km of fuel (3.61 L/100 km [65.2 mpg\u2011US] per passenger) In 2019, Wizz Air stated a 57 g/RPK CO2 emissions (equivalent to 18.1 g/km of fuel, 2.27 L/100 km [104 mpg\u2011US] per passenger), 40% lower than IAG or Lufthansa (95 g CO2/RPK - 30 g/km of fuel, 3.8 L/100 km [62 mpg\u2011US] per passenger), due to their business classes, lower-density seating, and flight connections. In 2021, the highest seating density in its A330neo, with 459 single-class seats, enabled Cebu Pacific to claim the lowest carbon footprint with 1.4 kg (3 lb) of fuel per seat per 100 km, equivalent",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 18,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "to 1.75 L/100 km [134 mpg\u2011US] per seat. Continuous Descent Approaches can reduce emissions. Beyond single-engine taxi, electric taxiing could allow taxiing on APU power alone, with the main engines shut down, to lower the fuel burn. Airbus presented the following measures to save fuel, in its example of an Airbus A330 flying 2,500 nautical miles (4,600 km) on a route like Bangkok\u2013Tokyo: direct routing saves 190 kg (420 lb) fuel by flying 40 km (25 mi) less; 600 kg (1,300 lb) more fuel is consumed if flying 600 m (2,000 ft) below optimum altitude without vertical flight profile optimization; cruising Mach 0.01 above the optimum speed consumes 800 kg (1,800 lb) more fuel; 1,000 kg (2,200 lb) more fuel on board consumes 150 kg (330 lb) more fuel while 100 litres (22 imp gal; 26 US gal) of",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 19,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "unused potable water consumes 15 kg (33 lb) more fuel. Operational procedures can save 35 kg (77 lb) fuel for every 10-minute reduction in use of the Auxiliary power unit (APU), 15 kg (33 lb) with a reduced flap approach and 30 kg (66 lb) with reduced thrust reversal on landing. Maintenance can also save fuel: 100 kg (220 lb) more fuel is consumed without an engine wash schedule; 50 kg (110 lb) with a 5 mm (0.20 in) slat rigging gap, 40 kg (88 lb) with a 10 mm (0.39 in) spoiler rigging gap, and 15 kg (33 lb) with a damaged door seal. Yield management allows the optimization of the load factor, benefiting the fuel efficiency, as is the air traffic management optimization. By taking advantage of wake updraft like migrating birds (biomimicry), Airbus believes an aircraft can save 5-10% of",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 20,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "fuel by flying in formation, 1.5\u20132 nmi (2.8\u20133.7 km) behind the preceding one. After Airbus A380 tests showing 12% savings, test flights were scheduled for 2020 with two Airbus A350s, before transatlantic flight trials with airlines in 2021. Certification for shorter separation is enabled by ADS-B in oceanic airspace, and the only modification required would be flight control systems software. Comfort would not be affected and trials are limited to two aircraft to reduce complexity but the concept could be expanded to include more. Commercial operations could begin in 2025 with airline schedule adjustments, and other manufacturers' aircraft could be included. While routes are up to 10% longer than necessary, modernized air traffic control systems using ADS-B technology like the FAA NextGen",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 21,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "or European SESAR could allow more direct routing, but there is resistance from air traffic controllers. Modern jet aircraft have twice the fuel efficiency of the earliest jet airliners. Late 1950s piston airliners like the Lockheed L-1049 Super Constellation and DC-7 were 1% to 28% more energy-intensive than 1990s jet airliners which cruise 40 to 80% faster. The early jet airliners were designed at a time when air crew labor costs were higher relative to fuel costs. Despite the high fuel consumption, because fuel was inexpensive in that era the higher speed resulted in favorable economical returns since crew costs and amortization of capital investment in the aircraft could be spread over more seat-miles flown per day. Productivity including speed went from around 150 ASK/MJ*km/h for the",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 22,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "1930s DC-3 to 550 for the L-1049 in the 1950s, and from 200 for the DH-106 Comet 3 to 900 for the 1990s B737-800. Today's turboprop airliners have better fuel-efficiency than current jet airliners, in part because of their propellers. In 2012, turboprop airliner usage was correlated with US regional carriers' fuel efficiency. Jet airliners became 70% more fuel efficient between 1967 and 2007, 40% due to improvements in engine efficiency and 30% from airframes. Efficiency gains were larger early in the jet age than later, with a 55-67% gain from 1960 to 1980 and a 20-26% gain from 1980 to 2000. Average fuel burn of new aircraft fell 45% from 1968 to 2014, a compounded annual reduction 1.3% with variable reduction rate. Concorde, a supersonic transport, managed about 17 passenger-miles to",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 23,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "the Imperial gallon, which is 16.7 L/100 km per passenger; similar to a business jet, but much worse than a subsonic turbofan aircraft. Airbus states a fuel rate consumption of their A380 at less than 3 L/100 km per passenger (78 passenger-miles per US gallon). Newer aircraft like the Boeing 787 Dreamliner, Airbus A350 and Bombardier CSeries, are 20% more fuel efficient per passenger kilometer than previous generation aircraft. For the 787, this is achieved through more fuel-efficient engines and lighter composite material airframes, and also through more aerodynamic shapes, winglets, more advanced computer systems for optimising routes and aircraft loading. A life-cycle assessment based on the Boeing 787 shows a 20% emission savings compared to conventional aluminium airliners, 14-15%",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 24,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "fleet-wide when encompassing a fleet penetration below 100%, while the air travel demand would increase due to lower operating costs. Lufthansa, when it ordered both, stated the Airbus A350-900 and the Boeing 777X-9 will consume an average of 2.9 L/100 km (81 mpg\u2011US) per passenger. The Airbus A321 featuring Sharklet wingtip devices consumes 2.2 L/100 km (110 mpg\u2011US) per person with a 200-seat layout for WOW Air. Airbus airliners delivered in 2019 had a carbon intensity of 66.6 g of CO2 equivalent per passenger-kilometer, improving to 63.5g in 2020. The aviation fuel density used is 6.7 lb/USgal or 0.8 kg/L. For flights of 300 nmi (560 km): For flights of 500\u2013700 nmi (930\u20131,300 km) For flights of 1,000 nmi (1,900 km): For flights around 2,000\u20133,000 nmi (3,700\u20135,600 km), transcontinental",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 25,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "(e.g. Washington Dulles \u2013 Seattle-Tacoma is 2,000 nmi) to short transatlantic flights (e.g. New York JFK \u2013 London-Heathrow is 3,000 nmi). For flights around 5,000 to 7,000 nmi (9,300 to 13,000 km), including transpacific flights (e.g. Hong Kong \u2013 San Francisco International is 6,000 nmi). For a comparison with ground transportation - much slower and with shorter range than air travel - a Volvo bus 9700 averages 0.41 L/100 km (570 mpg\u2011US) per seat for 63 seats. In highway travel an average auto has the potential for 1.61 L/100 km (146 mpg\u2011US) per seat (assuming 4 seats) and for a 5-seat 2014 Toyota Prius, 0.98 L/100 km (240 mpg\u2011US). While this shows the capabilities of the vehicles, the load factors (percentage of seats occupied) may differ between personal use (commonly just the driver in",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 26,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "the car) and societal averages for long-distance auto use, and among those of particular airlines. For private aircraft in general aviation, current FAI Aeroplane Efficiency records are : A four-seat Dyn'A\u00e9ro MCR4S powered by a Rotax 914 consumes 8.3 L/100 km at 264 km/h (2.1 L/100 km per seat). NASA and Boeing flight-tested a 500 lb (230 kg) blended wing body (BWB) X-48B demonstrator from August 2012 to April 2013. This design provides greater fuel efficiency, since the whole craft produces lift, not just the wings. The BWB concept offers advantages in structural, aerodynamic and operating efficiencies over today's more-conventional fuselage-and-wing designs. These features translate into greater range, fuel economy, reliability and life-cycle savings, as well as lower manufacturing",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 27,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "costs. NASA has created a cruise efficient STOL (CESTOL) concept. Fraunhofer Institute for Manufacturing Engineering and Applied Materials Research (IFAM) have researched a sharkskin-imitating paint that would reduce drag through a riblet effect. Aviation is a major potential application for new technologies such as aluminium metal foam and nanotechnology. The International Air Transport Association (IATA) technology roadmap envisions improvements in aircraft configuration and aerodynamics. It projects the following reductions in engine fuel consumption, compared to baseline aircraft in service in 2015: Moreover, it projects the following gains for aircraft design technologies: Today's tube-and-wing configuration could remain in use until the 2030s due to drag reductions from active",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 28,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "flutter suppression for slender flexible-wings and natural and hybrid laminar flow. Large, ultra high bypass engines will need upswept gull wings or overwing nacelles as Pratt & Whitney continue to develop their geared turbofan to save a projected 10\u201315% of fuel costs by the mid-2020s. NASA indicates this configuration could gain up to 45% with advanced aerodynamics, structures and geared turbofans, but longer term suggests savings of up to 50% by 2025 and 60% by 2030 with new ultra-efficient configurations and propulsion architectures: hybrid wing body, truss-braced wing, lifting body designs, embedded engines, and boundary-layer ingestion. By 2030 hybrid-electric architectures may be ready for 100 seaters and distributed propulsion with tighter integration of airframe may enable further",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 29,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "efficiency and emissions improvements. Research projects such as Boeing's ecoDemonstrator program have sought to identify ways of improving the fuel economy of commercial aircraft operations. The U.S. government has encouraged such research through grant programs, including the FAA's Continuous Lower Energy, Emissions and Noise (CLEEN) program, and NASA's Environmentally Responsible Aviation (ERA) Project. Multiple concepts are projected to reduce fuel consumption: The growth of air travel outpaces its fuel-economy improvements and corresponding CO2 emissions, compromising climate sustainability. Although low-cost carriers' higher seat-density increases fuel economy and lowers greenhouse gas emissions per-passenger-kilometer, the lower airfares cause a rebound effect of more flights and",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 30,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "larger overall emissions. The tourism industry could shift emphasis to emissions eco-efficiency in CO2 per unit of revenue or profit instead of fuel economy, favoring shorter trips and ground transportation over flying long journeys to reduce greenhouse gas emissions.",
+    "source": "fuel_economy_in_aircraft.txt",
+    "chunk_id": 31,
+    "file_path": "aviation_data/wikipedia/fuel_economy_in_aircraft.txt"
+  },
+  {
+    "content": "The Extended-range Twin-engine Operations Performance Standards (ETOPS) (/i\u02d0\u02c8t\u0252ps/) are safety standards set by the International Civil Aviation Organization (ICAO) for twin-engine commercial passenger aircraft operations. They are a safety measure intended to ensure that in the event of a single engine failure, an aircraft will still be able to reach a diversion airport using the remaining operational engine. This may be at a reduced speed and/or height, and usually applies to flights over water or remote lands, typically routes previously restricted to three- and four-engine aircraft. In 1936, the predecessor to the U.S. Federal Aviation Administration (FAA), the U.S. Bureau of Air Commerce, restricted commercial operations within United States airspace to within 100 miles (160 km) of",
+    "source": "etops.txt",
+    "chunk_id": 0,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "an adequate airport. For many aircraft of that era this meant about 60 minutes with one engine inoperative. In 1953, with piston engine reliability and aircraft performance improved, U.S. authorities introduced a \"60-minute rule\", restricting twin-engine aircraft to a 60-minute diversion area (at single-engine cruise speed). There was some additional flexibility beyond this limit with special approval. Meanwhile, the International Civil Aviation Organization (ICAO) recommended a 90-minute diversion time for all aircraft, which was adopted by many regulatory authorities and airlines outside the US. During the 1950s, Pan Am twin-engine Convair 240s flew across the Caribbean from Barranquilla, Colombia to Kingston, Jamaica, Avensa Convair 340s flew from Maracaibo, Venezuela to Montego Bay,",
+    "source": "etops.txt",
+    "chunk_id": 1,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "Jamaica, KLM Douglas DC-3s flew Curacao to Ciudad Trujillo while KLM Convairs flew Aruba to Kingston with Delta Air Lines operating Convair 340 flights nonstop between New Orleans and Havana as well as nonstop between Havana and Montego Bay and also on a routing of Havana \u2013 Port au Prince \u2013 Ciudad Trujillo \u2013 San Juan, Puerto Rico. In 1948\u201352 New Zealand National Airways Corporation scheduled a DC-3 to fly from Apia (Western Samoa) to Aitutaki, a 5+1\u20442-hour flight covering 685 airportless nautical miles between Tafuna (Pago Pago) and Aitutaki. In 1963 Polynesian Airlines started flying a Percival Prince Apia to Aitutaki; in 1964 the flight was a DC-3 from Faleolo (Upolu) to Aitutaki, a distance of 768 nautical miles (1,422 km; 884 mi). More recently, the January 1979 OAG showed a weekly",
+    "source": "etops.txt",
+    "chunk_id": 2,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "Polynesian Airlines HS748 from Niue to Rarotonga, 585 nmi (1,083 km; 673 mi) with no airport. In 2017 ICAO issued Standards and Recommended Practices (SARPS) for ETOPS, and ETOPS were extended to four-engine aircraft like the Boeing 747-8 and the terminology updated to EDTO (Extended Diversion Time Operations). While the earliest jet engines were sometimes unreliable, widespread use of later engines such as the Pratt & Whitney JT8D (e.g. McDonnell Douglas DC-9 and Boeing 737) led to major advances in reliability and safety. As jet engines started to deliver more power than piston engines while increasing reliability, aircraft whose size previously required four piston engines could now be built using only two jet engines. By the late 1960s, most large civil airliners were jet-powered,",
+    "source": "etops.txt",
+    "chunk_id": 3,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "relegating the piston engine to roles such as cargo flights. With the JT8D reliably powering the three-engine Boeing 727, the 60-minute rule was waived in 1964 for three-engine aircraft, which in turn opened the way for the development of wide-body, intercontinental trijets such as the Lockheed L-1011 TriStar and McDonnell Douglas DC-10. By then, only twin-engine jets were restricted by the 60-minute rule. Trijets and quadjets dominated international long-haul flights until the late 1980s. Airbus A300 twinjets, the first twin-engine wide-body aircraft, had been flying across the North Atlantic, the Bay of Bengal, and the Indian Ocean under a 90-minute ICAO rule since 1976. When the FAA director J. Lynn Helms in 1980 was approached about the possibility of an exemption, his response was",
+    "source": "etops.txt",
+    "chunk_id": 4,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "\"It'll be a cold day in hell before I let twins fly long haul, overwater routes.\" The Boeing 767-200ER entered service in 1984. In 1985, the FAA increased the ETOPS to 120 minutes at the single-engine cruise speed. Trans World Airlines operated the first 120-minute ETOPS (ETOPS-120) service on February 1, 1985, with a Boeing 767-200 from Boston to Paris. The 767 burned 7,000 lb (3.2 t) less fuel per hour than a Lockheed L-1011 TriStar on the same route, prompting TWA to spend $2.6 million on each 767 they owned to retrofit them to ETOPS-120 specs. It was followed by Singapore Airlines in June with an Airbus A310. In April 1986, Pan Am inaugurated transatlantic revenue service using A310s, and within five years Airbus ETOPS operators numbered more than 20. In 1988, the FAA amended the",
+    "source": "etops.txt",
+    "chunk_id": 5,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "ETOPS regulation to allow the extension to a 180-minute diversion period, subject to stringent technical and operational qualifications. ETOPS-180 and ETOPS-207 cover about 95% of the Earth. The first such flight was conducted in 1989. This set of regulations was subsequently adopted by the JAA, ICAO, and other regulatory bodies. The original 1985 regulations allowed an airliner to have ETOPS-120 rating on entry into service. ETOPS-180 was only possible after one year of trouble-free 120-minute ETOPS experience. In 1990 Boeing convinced the FAA that it could deliver an airliner with ETOPS-180 on its entry into service. This process was called Early ETOPS. The Boeing 777 was the first aircraft to be introduced with an ETOPS rating of 180 minutes. In the 1990s, the Joint Aviation",
+    "source": "etops.txt",
+    "chunk_id": 6,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "Authorities (JAA) demurred, and the Boeing 777 was rated ETOPS-120 on its entry into service in Europe. European airlines operating the 777 had to demonstrate one year of trouble-free 120-minute ETOPS experience before obtaining 180-minute ETOPS for the 777. Effective February 15, 2007, the FAA ruled that US-registered twin-engine airplane operators can fly more than 180-minute ETOPS to the design limit of the aircraft. In November 2009, the Airbus A330 became the first aircraft to receive ETOPS-240 approval, which has since been offered by Airbus as an option. ETOPS-240 and beyond are now permitted on a case-by-case basis, with regulatory bodies in the United States, Australia, and New Zealand adopting said regulatory extension. Authority is only granted to operators of two-engine",
+    "source": "etops.txt",
+    "chunk_id": 7,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "airplanes between specific city pairs. The certificate holder must have been operating at 180-minute or greater ETOPS authority for at least 24 consecutive months, of which at least 12 consecutive months must be at 240-minute ETOPS authority with the airplane-engine combination in the application. On December 12, 2011, Boeing received type-design approval from the FAA for up to 330-minute extended operations for its Boeing 777 series, all equipped with GE engines, and with Rolls-Royce and Pratt & Whitney engines expected to follow. The first ETOPS-330 flight took place on December 1, 2015, with Air New Zealand connecting Auckland to Buenos Aires on a 777-200ER. On May 28, 2014, the Boeing 787 received its ETOPS-330 certificate from the FAA, enabling LAN Airlines (now known as LATAM",
+    "source": "etops.txt",
+    "chunk_id": 8,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "Airlines) to switch to the 787 from the A340 on their Santiago\u2013Auckland\u2013Sydney service a year later. Until the rule change in North America and Oceania, several commercial airline routes were still economically off-limits to twinjets because of ETOPS regulations, unless the route was specifically conducted as indivertible. There were routes traversing the Southern hemisphere, e.g., South Pacific (e.g., Sydney\u2013Santiago, one of the longest over-the-sea distances flown by a commercial airline), South Atlantic (e.g., Johannesburg\u2013S\u00e3o Paulo), Southern Indian Ocean (e.g., Perth\u2013Johannesburg), and Antarctica. Before the introduction of the Airbus A350 XWB in 2014, regulations in North America and Europe permitted up to 180-minute ETOPS at entry. The A350 XWB was first to receive an ETOPS-370",
+    "source": "etops.txt",
+    "chunk_id": 9,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "prior to entry into service by European authorities. The A350 XWB's current ETOPS certification covers 99.7% of the Earth's entire surface, allowing point-to-point travel anywhere in the world except directly over the South Pole. Meanwhile, the first time that ETOPS-330 approval was given to a four-engine aircraft was in February 2015, to the Boeing 747-8 Intercontinental. It is the only ETOPS-compliant aircraft allowed to run non-stop overflights over Antarctica with proper alternates, alongside the Airbus A340 and A380. The North Atlantic Tracks are the most heavily used oceanic routes in the world, and are largely covered by ETOPS 120-minute rules, thereby removing the necessity of using 180-minute rules. However, North Atlantic diversion airports are subject to adverse weather",
+    "source": "etops.txt",
+    "chunk_id": 10,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "conditions that affect their availability for use. As a result, the JAA and FAA have given 15% extension to the 120-minute rules to deal with such contingencies, resulting to ETOPS-138 (i.e. 138 minutes) to allow ETOPS flights with such airports closed. By the mid-2010s, virtually all North Atlantic plane routes were dominated by twin-engine aircraft. During the Cold War, routes between Europe and East Asia were prohibited from flying over Soviet Union or China since both airspaces were previously heavily military-controlled. Virtually all flights between Europe and East Asia flew over the United States, often with a tank stop in Anchorage, Alaska. They flew near the North Pole with a very large distance to usable airports, for which only three- and four-engine wide-body aircraft were",
+    "source": "etops.txt",
+    "chunk_id": 11,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "permitted for safety reasons by international aviation authorities. Some flights between Europe and Oceania still largely pass through stopovers in Asia (either in the Middle East or Southeast Asia) or North America (either in Canada or the U.S.) given the current aircraft range restrictions and, in the case of the early and mid-2020s, the reinstatement of selected routes by airlines between the Western Hemisphere and Eastern Hemisphere bypassing Russia due to its ongoing war with Ukraine. For decades, narrow-body aircraft like the Airbus A320 series, and the Boeing 737 series and 757 have continuously operated flights as approved for ETOPS operation, alongside earlier wide-body aircraft such as the A300 and A310, and Boeing 767. The success of ETOPS aircraft like A300 and Boeing 767 made",
+    "source": "etops.txt",
+    "chunk_id": 12,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "the intercontinental trijets obsolete for passenger use, production of which was largely ended by the late 2000s with Boeing cancelling the McDonnell Douglas MD-11 program in the same period. The rules have also allowed American legacy carriers (United Airlines and Delta Air Lines in particular) to use the Boeing 757 on \"long and thin\" transatlantic routes between their major hubs and secondary European cities that cannot generate the passenger demand to justify the use of a widebody airliner. The practice has been controversial, because although the 757 has adequate range to cross the Atlantic Ocean comfortably, strong headwinds caused by the jetstream over the winter months can result in westbound flights being declared \"minimum fuel\", forcing a refuelling stop at Gander, Newfoundland,",
+    "source": "etops.txt",
+    "chunk_id": 13,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "in order to safely complete their journey. Aloha Airlines operated 180-minute ETOPS\u2013approved Boeing 737-700 aircraft on nonstop routes between the Hawaiian Islands and the western U.S. and also Vancouver, Canada. The use of the smaller 737-700 enabled Aloha to serve routes that could not support larger jet aircraft with an example being the Honolulu \u2013 Burbank nonstop route. Prior to the 737-700 operation, Aloha Airlines had operated 737-200 aircraft to various Pacific islands utilizing 120 minute ETOPS. Other new-generation ETOPS aircraft include the Airbus A220 series, the Embraer E-Jets series and the ATR 72. By the mid-2010s, the widespread successes of ETOPS-reliant narrow-body aircraft have diminished the global market share of double-deck wide-body jets. At the onset of the COVID-19",
+    "source": "etops.txt",
+    "chunk_id": 14,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "pandemic in the early 2020s, Boeing and Airbus have since ended all production of the 747 and A380, respectively (and both being the two largest commercial aircraft in the world). At the same time, the increasing prominence of new-generation ultra-long-range wide-body twinjets like the Boeing 777 and 787, and Airbus A330 and A350 over the last decade has shifted the favor from quadjets to twinjets for international long-haul travel. The cornerstone of the ETOPS approach is the statistics showing that the turbine assembly of a modern jet engine is an inherently reliable component. Engine ancillaries, by contrast, have a lower reliability rating. Therefore, an ETOPS-certified engine may be built with duplicate sets of certain ancillaries in order to receive the required reliability rating.",
+    "source": "etops.txt",
+    "chunk_id": 15,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "ETOPS approval is a two-step process. First, the airframe and engine combination must satisfy the basic ETOPS requirements during its type certification. This is called \"ETOPS type approval\". Such tests may include shutting down an engine and flying the remaining engine during the complete diversion time. Often such tests are performed in the middle of the ocean. It must be demonstrated that, during the diversion flight, the flight crew is not unduly burdened by extra workload due to the lost engine and that the probability of the remaining engine failing is extremely remote. For example, if an aircraft is rated for ETOPS-180, it means that it is able to fly with full load and just one engine for three hours. Second, an operator who conducts ETOPS flights must satisfy their own country's",
+    "source": "etops.txt",
+    "chunk_id": 16,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "aviation regulators about their ability to conduct ETOPS flights. This is called \"ETOPS operational certification\" and involves compliance with additional special engineering and flight crew procedures in addition to the normal engineering and flight procedures. Pilots and engineering staff must be qualified and trained for ETOPS. An airline with extensive experience operating long-distance flights may be awarded ETOPS operational approval immediately, while others may need to demonstrate ability through a series of ETOPS proving flights. Regulators closely watch the ETOPS performance of both type certificate holders and their affiliated airlines. Any technical incidents during an ETOPS flight must be recorded. From the data collected, the reliability of the particular airframe-engine",
+    "source": "etops.txt",
+    "chunk_id": 17,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "combination is measured and statistics published. The figures must be within limits of type certifications. Of course, the figures required for ETOPS-180 will always be more stringent than ETOPS-120. Unsatisfactory figures would lead to a downgrade or, worse, suspension of ETOPS capabilities either for the type certificate holder or the airline. Engines must have an in-flight shutdown (IFSD) rate better than 1 per 20,000 hours for ETOPS-120, 1 per 50,000 hours for ETOPS-180, and 1 per 100,000 hours for beyond ETOPS-180. Private jets are exempted from ETOPS by the FAA, but are subject to the ETOPS 120-minute rule in EASA's jurisdiction. Government-owned aircraft (including military) do not have to adhere to ETOPS regulations. There are different levels of ETOPS certification, each allowing",
+    "source": "etops.txt",
+    "chunk_id": 18,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "aircraft to fly on routes that are a certain amount of single-engine flying time away from the nearest suitable airport. For example, if an aircraft is certified for 180 minutes, it is permitted to fly any route not more than 180 minutes' single-engine flying time to the nearest suitable airport. The following ratings are awarded under current regulations according to the capability of the airliner: However, ratings for ETOPS type approval are fewer. They are: Until the mid-1980s, the term EROPS (extended range operations) was used before being superseded by ETOPS usage. In 1997, when Boeing proposed to extend ETOPS authority for twins to beyond 180 minutes, Airbus proposed to replace ETOPS by a newer system, referred to as Long Range Operational Performance Standards (LROPS), which would",
+    "source": "etops.txt",
+    "chunk_id": 19,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "affect all civil airliners, not just those with a twin-engine configuration with more than 180 minutes ETOPS. The FAA stated in the Federal Register in 2007: This final rule applies to air carrier (part 121), commuter, and on-demand (part 135) turbine powered multi-engine airplanes used in extended-range operations. However, all-cargo operations in airplanes with more than two engines of both part 121 and part 135 are exempted from the majority of this rule. Today's rule [January 16, 2007] establishes regulations governing the design, operation and maintenance of certain airplanes operated on flights that fly long distances from an adequate airport. This final rule codifies current FAA policy, industry best practices and recommendations, as well as international standards designed to",
+    "source": "etops.txt",
+    "chunk_id": 20,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "ensure long-range flights will continue to operate safely.\" and Several commenters \u2026 recommended use of the acronym \"LROPS\"\u2014meaning 'Long Range Operations'\u2014for three- and four-engine ETOPS, to avoid confusion, particularly for those operations beyond 180 minutes' diversion time. The FAA has decided to use the single term, 'extended operations,' or ETOPS, for all affected operations regardless of the number of engines on the airplane.\" Prior to 2007, the FAA used the term for Extended Range Operation with Two-Engine Airplanes but the meaning was changed when regulations were broadened to include aircraft with more than two engines. In 2017 ICAO amendment 36 to Part I of Annex 6 of the Chicago Convention replaced the term ETOPS with the new term EDTO (Extended Diversion Time Operations).",
+    "source": "etops.txt",
+    "chunk_id": 21,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "The main reason of this change in the terminology was to better reflect the scope and applicability of these new standards. A colloquial aviation backronym is \"Engines Turn Or Passengers Swim\", referring to the inevitable emergency water landing of a twin engine aircraft after a double engine failure over water outside gliding range of land.",
+    "source": "etops.txt",
+    "chunk_id": 22,
+    "file_path": "aviation_data/wikipedia/etops.txt"
+  },
+  {
+    "content": "IATA delay codes were created to standardise the reporting by airlines of commercial flight departure delays. Previously, every airline had its own system, which made the sharing and aggregation of flight delay information difficult. IATA standardised the flight delay reporting format by using codes that attribute cause and responsibility for the delay; this supports aviation administration and logistics and helps to define any penalties arising. These codes are used in movement messages sent electronically by SITA from the departure airport to the destination airport and also in the internal administration of the airlines, airports and ground handling agents. An aircraft held on the ground incurs costs, consequently airlines plan operations to minimise ground time. It is common practice",
+    "source": "iata_delay_codes.txt",
+    "chunk_id": 0,
+    "file_path": "aviation_data/wikipedia/iata_delay_codes.txt"
+  },
+  {
+    "content": "for airlines and aircraft ground handling to have contracts based on a bonus\u2013malus system, penalising the causative agent for delays caused. Delay code properties cover nine category sets for delay. Each category set can be described using either a two-digit number code or a two letter alpha code; most airlines use the numeric format, but some prefer the alpha. Messaging standards, such as the AHM 780 Aircraft Movement Message specification, specify that only the numeric codes should be used. Many airlines further subdivide the IATA codes with an additional character, for more granular delay analysis, but these are not standardized. In the AHM 780 specification, the two-character numeric-only codes are sent in the DL and EDL elements along with the time assigned to each code (e.g.",
+    "source": "iata_delay_codes.txt",
+    "chunk_id": 1,
+    "file_path": "aviation_data/wikipedia/iata_delay_codes.txt"
+  },
+  {
+    "content": "DL31/62/0005/0015 showing reason 31 for 5 mins and reason 62 for 15 minutes), and the three-character alphanumeric codes are sent in the DLA element (e.g. DLA31C/62A// showing subreason C for code 31 and subreason A for code 62). Delay codes starting with 0 are used for internal airline purposes. Airlines are free to define these codes and to determine particular application fields. However the following codes are standard, even if some airlines do not use them and create their own customized delay codes: These Codes are used to describe delays caused by Passenger and Baggage handling. These Codes are used to describe delays caused by Cargo (21-26) and Mail Handling (27-29). These Codes are used to describe delays caused by aircraft and ramp handling These codes are used to describe",
+    "source": "iata_delay_codes.txt",
+    "chunk_id": 2,
+    "file_path": "aviation_data/wikipedia/iata_delay_codes.txt"
+  },
+  {
+    "content": "technical delay reasons. These Codes are used to describe damage to aircraft and automated equipment failure. These codes are assigned to Operations and Crew caused delays. These Codes explain weather caused delays. These Codes are used for Air Traffic Control (ATC) Restrictions (81-84) and Airport or Governmental Authorities caused delays. Codes used for reactionary reasons or Miscellaneous.",
+    "source": "iata_delay_codes.txt",
+    "chunk_id": 3,
+    "file_path": "aviation_data/wikipedia/iata_delay_codes.txt"
+  },
+  {
+    "content": "Airport collaborative decision-making Improving the efficiency and resilience of airport operations by optimising the use of resources and improving the predictability of air traffic. THIS IS PART OF Optimised operational performance | Network Manager Airport CDM (A-CDM) aims to improve the efficiency and resilience of airport operations by optimising the use of resources and improving the predictability of air traffic. It achieves this by encouraging the airport partners (airport operators, aircraft operators, ground handlers and ATC) and the Network Manager to work more transparently and collaboratively, exchanging relevant accurate and timely information. It focuses especially on aircraft turn-round and pre-departure processes. It also allows the exchange of more accurate departure",
+    "source": "a_cdm.txt",
+    "chunk_id": 0,
+    "file_path": "aviation_data/eurocontrol/guidelines/a_cdm.txt"
+  },
+  {
+    "content": "information, particularly target take-off times, with the European ATFCM network, leading to improved en-route and sectoral planning. For smaller airports, we also provide a more accessible alternative caller Advanced ATC tower concept. Implementation Airport CDM is now globally recognised. A-CDM is fully implemented in 34 airports across Europe, including Alicante, Amsterdam, Barcelona, Bergamo, Berlin Brandenburg, Brussels, Copenhagen, D\u00fcsseldorf, Frankfurt, Geneva, Hamburg, Helsinki, Lisbon, London Heathrow, London Gatwick, Lyon, Madrid, M\u00e1laga, Milan Linate, Milan Malpensa, Munich, Naples, Nice, Oslo, Palma de Mallorca, Paris CDG, Paris Orly, Prague, Riga, Rome Fiumicino, Stuttgart, Venice, Vienna, and Zurich. This map provides and overview of the current status of A-CDM",
+    "source": "a_cdm.txt",
+    "chunk_id": 1,
+    "file_path": "aviation_data/eurocontrol/guidelines/a_cdm.txt"
+  },
+  {
+    "content": "implementation at European airports. Where available, it also gives some information on A-CDM procedures in place. This information has been provided by the airports and verified by the Network Manager. Airport Collaborative Decision-Making (A-CDM) Implementation Manual 31 March 2017 Advanced ATC TWR For smaller airports where there is no justification for a full A-CDM implementation the possibility to integrate with the ATFCM Network is offered by the Advanced ATC Tower concept, sharing a very small sub-set of A-CDM information with the network. This option is also available to those airports that want to take a step towards full A-CDM. To learn more about DPI/FUM exchange and technical integration with the EUROCONTROL NM systems, please consult our Implementation Guide: Advanced ATC TWR",
+    "source": "a_cdm.txt",
+    "chunk_id": 2,
+    "file_path": "aviation_data/eurocontrol/guidelines/a_cdm.txt"
+  },
+  {
+    "content": "Implementation Guide Version1.900 1 October 2023 Based on the A-CDM concept, the EUROCONTROL Network Manager also involves in the implementation of new and add-on concepts to support the even deeper integration of airports with the network. Here we take the lead in putting research into practice and further enhance and improve the collaboration between the partners in the network. EOBT for A-CDM At collaborative decision-making (A-CDM) airports, the target off-block time (TOBT) values reflect any delays that can be attributed to the aircraft operator (AO) or to the ground handling operations. To help reduce the workload for our partners, we provide a service to automatically solve the EOBT \u2013 TOBT discrepancies, depending on the AO preferences and prevent last minute flight disturbances",
+    "source": "a_cdm.txt",
+    "chunk_id": 3,
+    "file_path": "aviation_data/eurocontrol/guidelines/a_cdm.txt"
+  },
+  {
+    "content": "caused by misalignment of EOBT with TOBT. About our EOBT update service Streamlining tactical flight operations using A-CDM data. Deliverables You can also find more detailed information on how to implement airport A-CDM by browsing through our deliverables below. EUROCONTROL Specification for Airport Collaborative Decision Making (A-CDM) 30 January 2025 Airport collaborative decision-making (A-CDM) impact assessment 18 April 2016 Airport collaborative decision-making (A-CDM) safety case guidance material 1 February 2016 Safety assessment on Airport collaborative decision-making (A-CDM) 1 February 2016 Departure Planning Information (DPI) implementation guide Version2.700 30 June 2025 Departure Planning Information (DPI) & Arrival Planning Information (API) implementation roadmap",
+    "source": "a_cdm.txt",
+    "chunk_id": 4,
+    "file_path": "aviation_data/eurocontrol/guidelines/a_cdm.txt"
+  },
+  {
+    "content": "Version2.400 1 October 2023 Flight Update Message (FUM) implementation guide Version2.200 1 October 2023 You must have JavaScript enabled to use this form. Confirm email I agree that my data can be processed in accordance with EUROCONTROL's privacy and data protection policy. EUROCONTROL respects your personal data At EUROCONTROL, we manage your personal data responsibly, meaning we only use it for the pur-pose defined in the privacy statement. EUROCONTROL will never share your personal data to third parties. Read our full full privacy and data protection policy (PDF) to learn more. Leave this field blank",
+    "source": "a_cdm.txt",
+    "chunk_id": 5,
+    "file_path": "aviation_data/eurocontrol/guidelines/a_cdm.txt"
+  },
+  {
+    "content": "AIM General InformationAir NavigationAeronautical Lighting and Other Airport Visual AidsAirspaceAir Traffic ControlAir Traffic ProceduresEmergency ProceduresSafety of FlightMedical Facts for PilotsAeronautical Charts and Related PublicationsHelicopter OperationsUnmanned Aircraft Systems (UAS)Bird/Other Wildlife Strike ReportVolcanic Activity Reporting Form (VAR)Abbreviations/AcronymsFAA Form 7233\u22124 International Flight PlanFAA Form 7233\u22121 Flight PlanPilot/Controller Glossary Effective: August 7, 2025 Change: 1 FAA National Headquarters (FOB\u221210B), Mission Support Services Policy (AJV-P) United States Department of Transportation Federal Aviation Administration",
+    "source": "aeronautical_information_manual.txt",
+    "chunk_id": 0,
+    "file_path": "aviation_data/faa/manuals/aeronautical_information_manual.txt"
+  }
+]
