@@ -1,0 +1,24 @@
+Title: Minimum equipment list
+Source: Wikipedia
+URL: https://en.wikipedia.org/wiki/Minimum_equipment_list
+License: Creative Commons Attribution-ShareAlike
+Summary: In aviation safety, master minimum equipment list, or MMEL, is a categorized list of on-board systems, instruments and equipment that may be inoperative for flight in a specified aircraft model. Procedures or conditions may be associated with items on the list. Any airworthiness-related equipment or system not on the list must be functional for flight.
+======================================================================
+
+In aviation safety, master minimum equipment list, or MMEL, is a categorized list of on-board systems, instruments and equipment that may be inoperative for flight in a specified aircraft model. Procedures or conditions may be associated with items on the list. Any airworthiness-related equipment or system not on the list must be functional for flight.
+
+The philosophy behind the MMEL is to authorize release of flight with inoperative equipment only when the inoperative equipment does not render the aircraft unsafe for the particular flight. MMEL is a base (kind of "template") for an operator (airline) own Minimum Equipment List  (MEL) development. As most airlines schedule the majority of their flights during the day, being able to defer non-critical inoperative equipment with the MEL can help prevent the plane from being hard grounded during the day allowing it to be fixed during overnight stays, preventing loss of revenue. This is permissible as aircraft have a significant number of redundant systems (or systems that are not expressly required to be functional for safe flight) and thus some systems can be inoperative without impacting overall safety.
+
+While the MEL will vary between operator it is always based on the MMEL defined by the aircraft manufacturer while MEL is prepared by the aircraft operator. This is done by referencing the MMEL from the manufacturer and tailoring it to that operator's aircraft based on the type and number of equipment installed on board. Initial issue of the MEL and its subsequent revisions are approved by the operator's regulating authority.
+
+Generally, to release an aircraft on an MEL deferral will require an aircraft maintenance technician to inspect the aircraft and confirm the reported fault. The technician will then consult the MEL and confirm the aircraft meets the requirements of the MEL before carrying out the procedures to apply the MEL. These procedures will typically involve tagging out and placarding the equipment as inoperative as well as noting aircraft performance reduction as applicable. MEL deferrals often come with stipulations: they may only be allowed for a set number of flight hours, cycles or calendar days before the fault needs to be corrected. Additionally, some may also require monitoring inspections at a fixed interval while the equipment is on MEL.
+
+As an example, take an Airbus A320 with an inoperative landing light. The aircraft is certified to be equipped with two landing lights, two taxi lights and two runway turn off lights. Per the FAA approved MMEL for the A320 family, the aircraft would be permitted to fly at night with one landing light inoperative provided the taxi and takeoff lights work properly. Alternatively, the aircraft would be permitted to fly with both landing lights inoperative provided it is not operating at night.
+
+In addition to the MEL, most operators will have additional lists for deferring inoperative equipment. The configuration deviation list (CDL) serves the same function as the MEL but for the structure of the aircraft and its flight controls. The non-essential furnishings (NEF) also serves the same function as the MEL/CDL, though for interior equipment and furnishings. Typically, NEF deferrals can be signed off by the flight crew to defer interior components without requiring a mechanic to inspect the aircraft - though this will depend on the operator and regulating body.
+
+Minimum equipment lists are issued to specific aircraft and specific operators. In order to use a minimum equipment list, that specific company must receive a letter of authorization from the civil aviation authorities of the countries where the aircraft will operate.
+
+A minimum equipment list is required in the United States by the Federal Aviation Administration:
+
+The same kind of regulation is also enforced by its regulatory counterpart in other nations, such as the European Aviation Safety Agency, the FAA European counterpart.

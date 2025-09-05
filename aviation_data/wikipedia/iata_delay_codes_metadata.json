@@ -1,0 +1,9 @@
+{
+  "title": "IATA delay codes",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/IATA_delay_codes",
+  "license": "Creative Commons Attribution-ShareAlike",
+  "summary": "IATA delay codes were created to standardise the reporting by airlines of commercial flight departure delays.\nPreviously, every airline had its own system, which made the sharing and aggregation of flight delay information difficult. IATA standardised the flight delay reporting format by using codes that attribute cause and responsibility for the delay; this supports aviation administration and logistics and helps to define any penalties arising. These codes are used in movement messages sent electronically by SITA from the departure airport to the destination airport and also in the internal administration of the airlines, airports and ground handling agents.",
+  "scraped_at": "2025-09-04 17:57:47",
+  "word_count": 431
+}

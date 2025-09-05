@@ -1,0 +1,95 @@
+Title: ETOPS
+Source: Wikipedia
+URL: https://en.wikipedia.org/wiki/ETOPS
+License: Creative Commons Attribution-ShareAlike
+Summary: The Extended-range Twin-engine Operations Performance Standards (ETOPS) are safety standards set by the International Civil Aviation Organization (ICAO) for twin-engine commercial passenger aircraft operations. They are a safety measure intended to ensure that in the event of a single engine failure, an aircraft will still be able to reach a diversion airport using the remaining operational engine. This may be at a reduced speed and/or height, and usually applies to flights over water or remote lands, typically routes previously restricted to three- and four-engine aircraft.
+======================================================================
+
+The Extended-range Twin-engine Operations Performance Standards (ETOPS) (/iːˈtɒps/) are safety standards set by the International Civil Aviation Organization (ICAO) for twin-engine commercial passenger aircraft operations. They are a safety measure intended to ensure that in the event of a single engine failure, an aircraft will still be able to reach a diversion airport using the remaining operational engine. This may be at a reduced speed and/or height, and usually applies to flights over water or remote lands, typically routes previously restricted to three- and four-engine aircraft.
+
+In 1936, the predecessor to the U.S. Federal Aviation Administration (FAA), the U.S. Bureau of Air Commerce, restricted commercial operations within United States airspace to within 100 miles (160 km) of an adequate airport. For many aircraft of that era this meant about 60 minutes with one engine inoperative.
+
+In 1953, with piston engine reliability and aircraft performance improved, U.S. authorities introduced a "60-minute rule", restricting twin-engine aircraft to a 60-minute diversion area (at single-engine cruise speed). There was some additional flexibility beyond this limit with special approval. Meanwhile, the International Civil Aviation Organization (ICAO) recommended a 90-minute diversion time for all aircraft, which was adopted by many regulatory authorities and airlines outside the US.
+
+During the 1950s, Pan Am twin-engine Convair 240s flew across the Caribbean from Barranquilla, Colombia to Kingston, Jamaica, Avensa Convair 340s flew from Maracaibo, Venezuela to Montego Bay, Jamaica, KLM Douglas DC-3s flew Curacao to Ciudad Trujillo while KLM Convairs flew Aruba to Kingston with Delta Air Lines operating Convair 340 flights nonstop between New Orleans and Havana as well as nonstop between Havana and Montego Bay and also on a routing of Havana – Port au Prince – Ciudad Trujillo – San Juan, Puerto Rico. In 1948–52 New Zealand National Airways Corporation scheduled a DC-3 to fly from Apia (Western Samoa) to Aitutaki, a 5+1⁄2-hour flight covering 685 airportless nautical miles between Tafuna (Pago Pago) and Aitutaki. In 1963 Polynesian Airlines started flying a Percival Prince Apia to Aitutaki; in 1964 the flight was a DC-3 from Faleolo (Upolu) to Aitutaki, a distance of 768 nautical miles (1,422 km; 884 mi). More recently, the January 1979 OAG showed a weekly Polynesian Airlines HS748 from Niue to Rarotonga, 585 nmi (1,083 km; 673 mi) with no airport.
+
+In 2017 ICAO issued Standards and Recommended Practices (SARPS) for ETOPS, and ETOPS were extended to four-engine aircraft like the Boeing 747-8 and the terminology updated to EDTO (Extended Diversion Time Operations).
+
+While the earliest jet engines were sometimes unreliable, widespread use of later engines such as the Pratt & Whitney JT8D (e.g. McDonnell Douglas DC-9 and Boeing 737) led to major advances in reliability and safety. As jet engines started to deliver more power than piston engines while increasing reliability, aircraft whose size previously required four piston engines could now be built using only two jet engines.
+
+By the late 1960s, most large civil airliners were jet-powered, relegating the piston engine to roles such as cargo flights. With the JT8D reliably powering the three-engine Boeing 727, the 60-minute rule was waived in 1964 for three-engine aircraft, which in turn opened the way for the development of wide-body, intercontinental trijets such as the Lockheed L-1011 TriStar and McDonnell Douglas DC-10. By then, only twin-engine jets were restricted by the 60-minute rule. Trijets and quadjets dominated international long-haul flights until the late 1980s.
+
+Airbus A300 twinjets, the first twin-engine wide-body aircraft, had been flying across the North Atlantic, the Bay of Bengal, and the Indian Ocean under a 90-minute ICAO rule since 1976.
+
+When the FAA director J. Lynn Helms in 1980 was approached about the possibility of an exemption, his response was "It'll be a cold day in hell before I let twins fly long haul, overwater routes." The Boeing 767-200ER entered service in 1984.
+
+In 1985, the FAA increased the ETOPS to 120 minutes at the single-engine cruise speed. Trans World Airlines operated the first 120-minute ETOPS (ETOPS-120) service on February 1, 1985, with a Boeing 767-200 from Boston to Paris. The 767 burned 7,000 lb (3.2 t) less fuel per hour than a Lockheed L-1011 TriStar on the same route, prompting TWA to spend $2.6 million on each 767 they owned to retrofit them to ETOPS-120 specs.
+It was followed by Singapore Airlines in June with an Airbus A310.
+In April 1986, Pan Am inaugurated transatlantic revenue service using A310s, and within five years Airbus ETOPS operators numbered more than 20.
+
+In 1988, the FAA amended the ETOPS regulation to allow the extension to a 180-minute diversion period, subject to stringent technical and operational qualifications. ETOPS-180 and ETOPS-207 cover about 95% of the Earth. The first such flight was conducted in 1989. This set of regulations was subsequently adopted by the JAA, ICAO, and other regulatory bodies.
+
+The original 1985 regulations allowed an airliner to have ETOPS-120 rating on entry into service. ETOPS-180 was only possible after one year of trouble-free 120-minute ETOPS experience. In 1990 Boeing convinced the FAA that it could deliver an airliner with ETOPS-180 on its entry into service. This process was called Early ETOPS. The Boeing 777 was the first aircraft to be introduced with an ETOPS rating of 180 minutes.
+
+In the 1990s, the Joint Aviation Authorities (JAA) demurred, and the Boeing 777 was rated ETOPS-120 on its entry into service in Europe. European airlines operating the 777 had to demonstrate one year of trouble-free 120-minute ETOPS experience before obtaining 180-minute ETOPS for the 777.
+
+Effective February 15, 2007, the FAA ruled that US-registered twin-engine airplane operators can fly more than 180-minute ETOPS to the design limit of the aircraft. In November 2009, the Airbus A330 became the first aircraft to receive ETOPS-240 approval, which has since been offered by Airbus as an option.
+
+ETOPS-240 and beyond are now permitted on a case-by-case basis, with regulatory bodies in the United States, Australia, and New Zealand adopting said regulatory extension. Authority is only granted to operators of two-engine airplanes between specific city pairs. The certificate holder must have been operating at 180-minute or greater ETOPS authority for at least 24 consecutive months, of which at least 12 consecutive months must be at 240-minute ETOPS authority with the airplane-engine combination in the application.
+
+On December 12, 2011, Boeing received type-design approval from the FAA for up to 330-minute extended operations for its Boeing 777 series, all equipped with GE engines, and with Rolls-Royce and Pratt & Whitney engines expected to follow. The first ETOPS-330 flight took place on December 1, 2015, with Air New Zealand connecting Auckland to Buenos Aires on a 777-200ER. On May 28, 2014, the Boeing 787 received its ETOPS-330 certificate from the FAA, enabling LAN Airlines (now known as LATAM Airlines) to switch to the 787 from the A340 on their Santiago–Auckland–Sydney service a year later.
+
+Until the rule change in North America and Oceania, several commercial airline routes were still economically off-limits to twinjets because of ETOPS regulations, unless the route was specifically conducted as indivertible. There were routes traversing the Southern hemisphere, e.g., South Pacific (e.g., Sydney–Santiago, one of the longest over-the-sea distances flown by a commercial airline), South Atlantic (e.g., Johannesburg–São Paulo), Southern Indian Ocean (e.g., Perth–Johannesburg), and Antarctica.
+
+Before the introduction of the Airbus A350 XWB in 2014, regulations in North America and Europe permitted up to 180-minute ETOPS at entry. The A350 XWB was first to receive an ETOPS-370 prior to entry into service by European authorities.  The A350 XWB's current ETOPS certification covers 99.7% of the Earth's entire surface, allowing point-to-point travel anywhere in the world except directly over the South Pole.
+
+Meanwhile, the first time that ETOPS-330 approval was given to a four-engine aircraft was in February 2015, to the Boeing 747-8 Intercontinental. It is the only ETOPS-compliant aircraft allowed to run non-stop overflights over Antarctica with proper alternates, alongside the Airbus A340 and A380.
+
+The North Atlantic Tracks are the most heavily used oceanic routes in the world, and are largely covered by ETOPS 120-minute rules, thereby removing the necessity of using 180-minute rules. However, North Atlantic diversion airports are subject to adverse weather conditions that affect their availability for use. As a result, the JAA and FAA have given 15% extension to the 120-minute rules to deal with such contingencies, resulting to ETOPS-138 (i.e. 138 minutes) to allow ETOPS flights with such airports closed. By the mid-2010s, virtually all North Atlantic plane routes were dominated by twin-engine aircraft.
+
+During the Cold War, routes between Europe and East Asia were prohibited from flying over Soviet Union or China since both airspaces were previously heavily military-controlled. Virtually all flights between Europe and East Asia flew over the United States, often with a tank stop in Anchorage, Alaska. They flew near the North Pole with a very large distance to usable airports, for which only three- and four-engine wide-body aircraft were permitted for safety reasons by international aviation authorities. Some flights between Europe and Oceania still largely pass through stopovers in Asia (either in the Middle East or Southeast Asia) or North America (either in Canada or the U.S.) given the current aircraft range restrictions and, in the case of the early and mid-2020s, the reinstatement of selected routes by airlines between the Western Hemisphere and Eastern Hemisphere bypassing Russia due to its ongoing war with Ukraine.
+
+For decades, narrow-body aircraft like the Airbus A320 series, and the Boeing 737 series and 757 have continuously operated flights as approved for ETOPS operation, alongside earlier wide-body aircraft such as the A300 and A310, and Boeing 767. The success of ETOPS aircraft like A300 and Boeing 767 made the intercontinental trijets obsolete for passenger use, production of which was largely ended by the late 2000s with Boeing cancelling the McDonnell Douglas MD-11 program in the same period.
+
+The rules have also allowed American legacy carriers (United Airlines and Delta Air Lines in particular) to use the Boeing 757 on "long and thin" transatlantic routes between their major hubs and secondary European cities that cannot generate the passenger demand to justify the use of a widebody airliner. The practice has been controversial, because although the 757 has adequate range to cross the Atlantic Ocean comfortably, strong headwinds caused by the jetstream over the winter months can result in westbound flights being declared "minimum fuel", forcing a refuelling stop at Gander, Newfoundland, in order to safely complete their journey.
+
+Aloha Airlines operated 180-minute ETOPS–approved Boeing 737-700 aircraft on nonstop routes between the Hawaiian Islands and the western U.S. and also Vancouver, Canada.  The use of the smaller 737-700 enabled Aloha to serve routes that could not support larger jet aircraft with an example being the Honolulu – Burbank nonstop route.  Prior to the 737-700 operation, Aloha Airlines had operated 737-200 aircraft to various Pacific islands utilizing 120 minute ETOPS.
+
+Other new-generation ETOPS aircraft include the Airbus A220 series, the Embraer E-Jets series and the ATR 72. By the mid-2010s, the widespread successes of ETOPS-reliant narrow-body aircraft have diminished the global market share of double-deck wide-body jets. At the onset of the COVID-19 pandemic in the early 2020s, Boeing and Airbus have since ended all production of the 747 and A380, respectively (and both being the two largest commercial aircraft in the world). At the same time, the increasing prominence of new-generation ultra-long-range wide-body twinjets like the Boeing 777 and 787, and Airbus A330 and A350 over the last decade has shifted the favor from quadjets to twinjets for international long-haul travel.
+
+The cornerstone of the ETOPS approach is the statistics showing that the turbine assembly of a modern jet engine is an inherently reliable component. Engine ancillaries, by contrast, have a lower reliability rating. Therefore, an ETOPS-certified engine may be built with duplicate sets of certain ancillaries in order to receive the required reliability rating.
+
+ETOPS approval is a two-step process. First, the airframe and engine combination must satisfy the basic ETOPS requirements during its type certification. This is called "ETOPS type approval". Such tests may include shutting down an engine and flying the remaining engine during the complete diversion time. Often such tests are performed in the middle of the ocean. It must be demonstrated that, during the diversion flight, the flight crew is not unduly burdened by extra workload due to the lost engine and that the probability of the remaining engine failing is extremely remote. For example, if an aircraft is rated for ETOPS-180, it means that it is able to fly with full load and just one engine for three hours.
+
+Second, an operator who conducts ETOPS flights must satisfy their own country's aviation regulators about their ability to conduct ETOPS flights. This is called "ETOPS operational certification" and involves compliance with additional special engineering and flight crew procedures in addition to the normal engineering and flight procedures. Pilots and engineering staff must be qualified and trained for ETOPS. An airline with extensive experience operating long-distance flights may be awarded ETOPS operational approval immediately, while others may need to demonstrate ability through a series of ETOPS proving flights.
+
+Regulators closely watch the ETOPS performance of both type certificate holders and their affiliated airlines. Any technical incidents during an ETOPS flight must be recorded. From the data collected, the reliability of the particular airframe-engine combination is measured and statistics published. The figures must be within limits of type certifications. Of course, the figures required for ETOPS-180 will always be more stringent than ETOPS-120. Unsatisfactory figures would lead to a downgrade or, worse, suspension of ETOPS capabilities either for the type certificate holder or the airline.
+
+Engines must have an in-flight shutdown (IFSD) rate better than 1 per 20,000 hours for ETOPS-120, 1 per 50,000 hours for ETOPS-180, and 
+1 per 100,000 hours for beyond ETOPS-180.
+
+Private jets are exempted from ETOPS by the FAA, but are subject to the ETOPS 120-minute rule in EASA's jurisdiction.
+
+Government-owned aircraft (including military) do not have to adhere to ETOPS regulations.
+
+There are different levels of ETOPS certification, each allowing aircraft to fly on routes that are a certain amount of single-engine flying time away from the nearest suitable airport. For example, if an aircraft is certified for 180 minutes, it is permitted to fly any route not more than 180 minutes' single-engine flying time to the nearest suitable airport.
+
+The following ratings are awarded under current regulations according to the capability of the airliner:
+
+However, ratings for ETOPS type approval are fewer. They are:
+
+Until the mid-1980s, the term EROPS (extended range operations) was used before being superseded by ETOPS usage. In 1997, when Boeing proposed to extend ETOPS authority for twins to beyond 180 minutes, Airbus proposed to replace ETOPS by a newer system, referred to as Long Range Operational Performance Standards (LROPS), which would affect all civil airliners, not just those with a twin-engine configuration with more than 180 minutes ETOPS.
+
+The FAA stated in the Federal Register in 2007:
+
+This final rule applies to air carrier (part 121), commuter, and on-demand (part 135) turbine powered multi-engine airplanes used in extended-range operations. However, all-cargo operations in airplanes with more than two engines of both part 121 and part 135 are exempted from the majority of this rule. Today's rule [January 16, 2007] establishes regulations governing the design, operation and maintenance of certain airplanes operated on flights that fly long distances from an adequate airport. This final rule codifies current FAA policy, industry best practices and recommendations, as well as international standards designed to ensure long-range flights will continue to operate safely."
+
+and
+
+Several commenters … recommended use of the acronym "LROPS"—meaning 'Long Range Operations'—for three- and four-engine ETOPS, to avoid confusion, particularly for those operations beyond 180 minutes' diversion time. The FAA has decided to use the single term, 'extended operations,' or ETOPS, for all affected operations regardless of the number of engines on the airplane."
+
+Prior to 2007, the FAA used the  term for Extended Range Operation with Two-Engine Airplanes but the meaning was changed when regulations were broadened to include aircraft with more than two engines.
+
+In 2017 ICAO amendment 36 to Part I of Annex 6 of the Chicago Convention replaced the term ETOPS with the new term EDTO (Extended Diversion Time Operations). The main reason of this change in the terminology was to better reflect the scope and applicability of these new standards.
+
+A colloquial aviation backronym is "Engines Turn Or Passengers Swim", referring to the inevitable emergency water landing of a twin engine aircraft after a double engine failure over water outside gliding range of land.

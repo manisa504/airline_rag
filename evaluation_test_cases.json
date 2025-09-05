@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is ETOPS and why is it important for twin-engine aircraft?",
+    "reference_answer": "ETOPS (Extended Twin-engine Operational Performance Standards) is a certification that allows twin-engine aircraft to fly routes that are more than 60 minutes flying time from the nearest airport. It's important because it enables airlines to use more fuel-efficient twin-engine aircraft on long-haul routes while maintaining safety standards through rigorous aircraft and crew requirements."
+  },
+  {
+    "question": "What is the role of a flight dispatcher?",
+    "reference_answer": "A flight dispatcher is responsible for flight planning, monitoring weather conditions, calculating fuel requirements, determining optimal routes, and maintaining communication with pilots during flight. They share legal responsibility with the captain for the safe operation of the flight and can delay, cancel, or redirect flights if necessary."
+  },
+  {
+    "question": "What is MEL and when is it used?",
+    "reference_answer": "MEL (Minimum Equipment List) is a document that specifies which aircraft systems can be inoperative while still allowing safe flight operations. It's used when certain non-critical equipment fails, allowing the aircraft to continue operations under specific conditions and time limitations until the equipment can be repaired."
+  },
+  {
+    "question": "How does Airport Collaborative Decision Making (A-CDM) work?",
+    "reference_answer": "A-CDM is a process that improves airport efficiency by enabling real-time information sharing between all airport stakeholders including airlines, ground handlers, air traffic control, and airport operators. It helps optimize resource allocation, reduce delays, and improve predictability of airport operations through better coordination and data sharing."
+  },
+  {
+    "question": "What factors affect aircraft fuel economy?",
+    "reference_answer": "Aircraft fuel economy is affected by aerodynamics, aircraft weight, engine efficiency, altitude, airspeed, weather conditions, flight planning, and operational factors like seating configuration and passenger load factor. Optimal cruise altitude and speed, reduced weight, and efficient route planning are key to improving fuel economy."
+  }
+]

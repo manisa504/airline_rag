@@ -1,0 +1,162 @@
+Title: Fuel economy in aircraft
+Source: Wikipedia
+URL: https://en.wikipedia.org/wiki/Fuel_economy_in_aircraft
+License: Creative Commons Attribution-ShareAlike
+Summary: The fuel economy in aircraft is the measure of the transport energy efficiency of aircraft.
+
+Fuel efficiency is increased with better aerodynamics and by reducing weight, and with improved engine brake-specific fuel consumption and propulsive efficiency or thrust-specific fuel consumption.
+
+Endurance and range can be maximized with the optimum airspeed, and economy is better at optimum altitudes, usually higher. An airline efficiency depends on its fleet fuel burn, seating density, air cargo and passenger load factor, while operational procedures like maintenance and routing can save fuel.
+======================================================================
+
+The fuel economy in aircraft is the measure of the transport energy efficiency of aircraft.
+Fuel efficiency is increased with better aerodynamics and by reducing weight, and with improved engine brake-specific fuel consumption and propulsive efficiency or thrust-specific fuel consumption.
+Endurance and range can be maximized with the optimum airspeed, and economy is better at optimum altitudes, usually higher. An airline efficiency depends on its fleet fuel burn, seating density, air cargo and passenger load factor, while operational procedures like maintenance and routing can save fuel.
+
+Average fuel burn of new aircraft fell 45% from 1968 to 2014, a compounded annual reduction 1.3% with a variable reduction rate.
+In 2018, CO2 emissions totalled 747 million tonnes for passenger transport, for 8.5 trillion revenue passenger kilometers (RPK), giving an average of 88 grams CO2 per RPK; this represents 28 g of fuel per kilometer, or a 3.5 L/100 km (67 mpg‑US) fuel consumption per passenger, on average. The worst-performing flights are short trips of from 500 to 1500 kilometers because the fuel used for takeoff is relatively large compared to the amount expended in the cruise segment, and because less fuel-efficient regional jets are typically used on shorter flights.
+
+New technology can reduce engine fuel consumption, like higher pressure and bypass ratios, geared turbofans, open rotors, hybrid electric or fully electric propulsion; and airframe efficiency with retrofits, better materials and systems and  advanced aerodynamics.
+
+A powered aircraft counters its weight through aerodynamic lift and counters its aerodynamic drag with thrust. The aircraft's maximum range is determined by the level of efficiency with which thrust can be applied to overcome the aerodynamic drag.
+
+A subfield of fluid dynamics, aerodynamics studies the physics of a body moving through the air. As lift and drag are functions of air speed, their relationships are major determinants of an aircraft's design efficiency.
+
+Aircraft efficiency is augmented by maximizing lift-to-drag ratio, which is attained by minimizing parasitic drag, and lift-generated induced drag, the two components of aerodynamic drag. As parasitic drag increases and induced drag decreases with speed, there is an optimum speed where the sum of both is minimal; this is the best glide ratio. For powered aircraft, the optimum glide ratio has to be balanced with thrust efficiency.
+
+Parasitic drag is constituted by form drag and skin-friction drag, and grows with the square of the speed in the drag equation. The form drag is minimized by having the smallest frontal area and by streamlining the aircraft for a low drag coefficient, while skin friction is proportional to the body's surface area, and can be reduced by maximizing laminar flow.
+
+Induced drag can be reduced by decreasing the size of the airframe, fuel and payload weight, and by increasing the wing aspect ratio or by using wingtip devices at the cost of increased structure weight.
+
+By increasing efficiency, a lower cruise-speed augments the range and reduces the environmental impact of aviation. According to a research project completed in 2024 and focusing on short to medium range passenger aircraft, design for subsonic instead of transonic speed (about 15% less speed) with turboprop instead of turbofan propulsion would save 21% of fuel compared to an aircraft of conventional design speed and similar characteristics in terms of size, range and expected general technology improvements. Another analysis from 2014 compared the Airbus 320 from 2009 with a hypothetical turboprop successor flying at a 33% lower Mach number, concluding that the slower aircraft would have 36% less fuel consumption. Both state that the decrease of fuel costs enabled by lower design speed would overcompensate the increase of time-related costs resp. the decrease in revenue passenger miles flown per day. In other words, subsonic turboprop aircraft would be more profitable than transonic turbofan aircraft even at current energy prices without additional costs related to climate action like emission fees, aviation fuel taxation or higher prices for sustainable aviation fuels compared to fossile kerosene.
+
+For supersonic flight, drag increases at Mach 1.0 but decreases again after the transition. With a specifically designed aircraft, such as the (discontinued) Aerion AS2, the Mach 1.1 range at 3,700 nmi is 70% of the maximum range of 5,300 nmi at Mach 0.95, but increases to 4,750 nmi at Mach 1.4 for 90% before falling again.
+
+Wingtip devices increase the effective wing aspect ratio, lowering lift-induced drag caused by wingtip vortices and improving the lift-to-drag ratio without increasing the wingspan. (Wingspan is limited by the available width in the ICAO Aerodrome Reference Code.) Airbus installed wingtip fences on its planes since the A310-300 in 1985, and Sharklet blended-winglets for the A320 were launched during the November 2009 Dubai Airshow. They add 200 kilograms (440 lb) but offer a 3.5% fuel burn reduction on flights over 2,800 km (1,500 nmi).
+
+On average, among large commercial jets, Boeing 737-800s benefit the most from winglets. They average a 6.69% increase in efficiency but depending on the route have a fuel savings distribution spanning from 4.6% to 10.5%. Airbus A319s see the most consistent fuel and emissions savings from winglets. Airbus A321s average a 4.8% improvement in fuel consumption, but have the widest swing based on routes and individual aircraft, recognizing anywhere from 0.2% improvement to 10.75%.
+
+As the weight indirectly generates lift-induced drag, its minimization leads to better aircraft efficiency. For a given payload, a lighter airframe generates a lower drag. Minimizing weight can be achieved through the airframe's configuration, materials science and construction methods. To obtain a longer range, a larger fuel fraction of the maximum takeoff weight is needed, adversely affecting efficiency.
+
+The deadweight of the airframe and fuel is non-payload that must be lifted to altitude and kept aloft, contributing to fuel consumption. A reduction in airframe weight enables the use of smaller, lighter engines. The weight savings in both allow for a lighter fuel load for a given range and payload. A rule-of-thumb is that a reduction in fuel consumption of about 0.75% results from each 1% reduction in weight.
+
+The payload fraction of modern twin-aisle aircraft is 18.4% to 20.8% of their maximum take-off weight, while single-aisle airliners are between 24.9% and 27.7%. An aircraft weight can be reduced with light-weight materials such as titanium, carbon fiber and other composite plastics if the expense can be recouped over the aircraft's lifetime. Fuel efficiency gains reduce the fuel carried, reducing the take-off weight for a positive feedback. For example, the Airbus A350 design includes a majority of light-weight composite materials. The Boeing 787 Dreamliner was the first airliner with a mostly composite airframe.
+
+For long-haul flights, the airplane needs to carry additional fuel, leading to higher fuel consumption. Above a certain distance it becomes more fuel-efficient to make a halfway stop to refuel, despite the energy losses in descent and climb. For example, a Boeing 777-300 reaches that point at 3,000 nautical miles (5,600 km). It is more fuel-efficient to make a non-stop flight at less than this distance and to make a stop when covering a greater total distance.
+
+Very long non-stop passenger flights suffer from the weight penalty of the extra fuel required, which means limiting the number of available seats to compensate. For such flights, the critical fiscal factor is the quantity of fuel burnt per seat-nautical mile. For these reasons, the world's longest commercial flights were cancelled c. 2013. An example is Singapore Airlines' former New York to Singapore flight, which could carry only 100 passengers (all business class) on the 10,300-mile (16,600 km) flight. According to an industry analyst, "It [was] pretty much a fuel tanker in the air." Singapore Airlines Flights 21 and 22 were re-launched in 2018 with more seats in an A350-900ULR.
+
+In the late 2000s/early 2010s, rising fuel prices coupled with the 2008 financial crisis and the Great Recession caused the cancellation of many ultra-long haul, non-stop flights. This included the services provided by Singapore Airlines from Singapore to both Newark and Los Angeles that was ended in late 2013. But as fuel prices decreased and more fuel-efficient aircraft have come into service, many ultra-long-haul routes were reinstated or newly scheduled (see Longest flights).
+
+The efficiency can be defined as the amount of energy imparted to the plane per unit of energy in the fuel. The rate at which energy is imparted equals thrust multiplied by airspeed.
+
+To get thrust, an aircraft engine is either a shaft engine – piston engine or turboprop, with its efficiency inversely proportional to its brake-specific fuel consumption – coupled with a propeller having its own propulsive efficiency; or a jet engine with its efficiency given by its airspeed divided by the thrust-specific fuel consumption and the specific energy of the fuel.
+
+Turboprops have an optimum speed below 460 miles per hour (740 km/h). This is less than jets used by major airlines today, however propeller planes are much more efficient. The Bombardier Dash 8 Q400 turboprop is used for this reason as a regional airliner.
+
+Jet fuel cost and emissions reduction have renewed interest in the propfan concept for jetliners with an emphasis on engine/airframe efficiency that might come into service beyond the Boeing 787 and Airbus A350XWB. For instance, Airbus has patented aircraft designs with twin rear-mounted counter-rotating propfans. Propfans bridge the gap between turboprops, losing efficiency beyond Mach 0.5-0.6, and high-bypass turbofans, more efficient beyond Mach 0.8. NASA has conducted an Advanced Turboprop Project (ATP), where they researched a variable-pitch propfan that produced less noise and achieved high speeds.
+
+In Europe in 2017, the average airline fuel consumption per passenger was 3.4 L/100 km (69 mpg‑US), 24% less than in 2005, but as the traffic grew by 60% to 1,643 billion passenger kilometers, CO2 emissions were up by 16% to 163 million tonnes for 99.8 g/km CO2 per passenger.
+In 2018, the US airlines had a fuel consumption of 58 mpg‑US (4.06 L/100 km) per revenue passenger for domestic flights, 
+or 32.5  g of fuel per km, generating 102 g CO2 / RPK of emissions.
+
+In 2013, the World Bank evaluated the business class carbon footprint as 3.04 times higher than economy class in wide-body aircraft, and first class 9.28 times higher, due to premium seating taking more space, lower weight factors, and larger baggage allowances (assuming Load Factors of 80% for Economy Class, 60% for Business Class, and 40% for First Class).
+
+At constant propulsive efficiency, the maximum range speed is when the ratio between velocity and drag is minimal, while maximum endurance is attained at the best lift-to-drag ratio.
+
+Air density decreases with altitude, thus lowering drag, assuming the aircraft maintains a constant equivalent airspeed. However, air pressure and temperature both decrease with altitude, causing the maximum power or thrust of aircraft engines to reduce. To minimize fuel consumption, an aircraft should cruise close to the maximum altitude at which it can generate sufficient lift to maintain its altitude. As the aircraft's weight decreases throughout the flight, due to fuel burn, its optimum cruising altitude increases.
+
+In a piston engine, the decrease in pressure at higher altitudes can be mitigated by the installation of a turbocharger.
+
+Decreasing temperature at higher altitudes increases thermal efficiency.
+
+Since early 2006 until 2008, Scandinavian Airlines was flying slower, from 860 to 780 km/h, to save on fuel costs and curb emissions of carbon dioxide.
+
+From 2010 to 2012, the most fuel-efficient US domestic airline was Alaska Airlines, due partly to its regional affiliate Horizon Air flying turboprops.
+In 2014, MSCI ranked Ryanair as the lowest-emissions-intensity airline in its ACWI index with 75 g CO2-e/revenue passenger kilometer – below Easyjet at 82 g, the average at 123 g and Lufthansa at 132 g – by using high-density 189-seat Boeing 737-800s. In 2015 Ryanair emitted 8.64 Bn t of CO2 for 545,034 sectors flown: 15.85 t per 776 miles (674 nmi; 1,249 km) average sector (or 5.04 t of fuel: 4.04 kg/km) representing 95 kg per 90.6 million passengers (30.4 kg of fuel: 3.04 L/100 km or 76 g CO2/km).
+
+In 2016, over the transpacific routes, the average fuel consumption was 31 pax-km per L (3.23 L/100 km [73 mpg‑US] per passenger). The most fuel-efficient were Hainan Airlines and ANA with 36 pax-km/L (2.78 L/100 km [85 mpg‑US] per passenger) while Qantas was the least efficient at 22 pax-km/L (4.55 L/100 km [51.7 mpg‑US] per passenger).
+Key drivers for efficiency were the air freight share for 48%, seating density for 24%, aircraft fuel burn for 16% and passenger load factor for 12%.
+That same year, Cathay Pacific and Cathay Dragon consumed 4,571,000 tonnes of fuel to transport 123,478 million revenue passenger kilometers, or 37 g/RPK, 25% better than in 1998: 4.63 L/100 km (50.8 mpg‑US).
+Again in 2016, the Aeroflot Group fuel consumption is 22.9g/ASK, or 2.86 L/100 km (82 mpg‑US) per seat, 3.51 L/100 km (67.0 mpg‑US) per passenger at its 81.5% load factor.
+
+Fuel economy in air transport comes from the fuel efficiency of the aircraft + engine model, combined with airline efficiency: seating configuration, passenger load factor and air cargo. Over the transatlantic route, the most-active intercontinental market, the average fuel consumption in 2017 was 34 pax-km per L (2.94 L/100 km [80 mpg‑US] per passenger). The most fuel-efficient airline was Norwegian Air Shuttle with 44 pax-km/L (2.27 L/100 km [104 mpg‑US] per passenger), thanks to its fuel-efficient Boeing 787-8, a high 85% passenger load factor and a high density of 1.36 seat/m due to a low 9% premium seating. On the other side, the least efficient was British Airways at 27 pax-km/L (3.7 L/100 km [64 mpg‑US] per passenger), using fuel-inefficient Boeing 747-400s with a low density of 0.75 seat/m due to a high 25% premium seating, in spite of a high 82% load factor.
+
+In 2018, CO2 emissions totalled 918 Mt with passenger transport accounting for 81% or 744 Mt, for 8.2 trillion revenue passenger kilometers: an average fuel economy of 90.7 g/RPK CO2 - 29 g/km of fuel  (3.61 L/100 km [65.2 mpg‑US] per passenger)
+
+In 2019, Wizz Air stated a 57 g/RPK CO2 emissions (equivalent to 18.1 g/km of fuel, 2.27 L/100 km [104 mpg‑US] per passenger), 40% lower than IAG or Lufthansa (95  g CO2/RPK - 30 g/km of fuel, 3.8 L/100 km [62 mpg‑US] per passenger), due to their business classes, lower-density seating, and flight connections.
+
+In 2021, the highest seating density in its A330neo, with 459 single-class seats, enabled Cebu Pacific to claim the lowest carbon footprint with 1.4 kg (3 lb) of fuel per seat per 100 km, equivalent to 1.75 L/100 km [134 mpg‑US] per seat.
+
+Continuous Descent Approaches can reduce emissions.
+Beyond single-engine taxi, electric taxiing could allow taxiing on APU power alone, with the main engines shut down, to lower the fuel burn.
+
+Airbus presented the following measures to save fuel, in its example of an Airbus A330 flying 2,500 nautical miles (4,600 km) on a route like Bangkok–Tokyo: direct routing saves 190 kg (420 lb) fuel by flying 40 km (25 mi) less; 600 kg (1,300 lb) more fuel is consumed if flying 600 m (2,000 ft) below optimum altitude without vertical flight profile optimization; cruising  Mach 0.01 above the optimum speed consumes 800 kg (1,800 lb) more fuel; 1,000 kg (2,200 lb) more fuel on board consumes 150 kg (330 lb) more fuel while 100 litres (22 imp gal; 26 US gal) of unused potable water consumes 15 kg (33 lb) more fuel.
+
+Operational procedures can save 35 kg (77 lb) fuel for every 10-minute reduction in use of the Auxiliary power unit (APU), 15 kg (33 lb) with a reduced flap approach and 30 kg (66 lb) with reduced thrust reversal on landing. Maintenance can also save fuel: 100 kg (220 lb) more fuel is consumed without an engine wash schedule; 50 kg (110 lb) with a 5 mm (0.20 in) slat rigging gap, 40 kg (88 lb) with a 10 mm (0.39 in) spoiler rigging gap, and 15 kg (33 lb) with a damaged door seal.
+
+Yield management allows the optimization of the load factor, benefiting the fuel efficiency, as is the air traffic management optimization.
+
+By taking advantage of wake updraft like migrating birds (biomimicry), Airbus believes an aircraft can save 5-10% of fuel by flying in formation, 1.5–2 nmi (2.8–3.7 km) behind the preceding one.
+After Airbus A380 tests showing 12% savings, test flights were scheduled for 2020 with two Airbus A350s, before transatlantic flight trials with airlines in 2021.
+Certification for shorter separation is enabled by ADS-B in oceanic airspace, and the only modification required would be flight control systems software.
+Comfort would not be affected and trials are limited to two aircraft to reduce complexity but the concept could be expanded to include more.
+Commercial operations could begin in 2025 with airline schedule adjustments, and other manufacturers' aircraft could be included.
+
+While routes are up to 10% longer than necessary, modernized air traffic control systems using ADS-B technology like the FAA NextGen or European SESAR could allow more direct routing, but there is resistance from air traffic controllers.
+
+Modern jet aircraft have twice the fuel efficiency of the earliest jet airliners. Late 1950s piston airliners like the Lockheed L-1049 Super Constellation and DC-7 were 1% to 28% more energy-intensive than 1990s jet airliners which cruise 40 to 80% faster. The early jet airliners were designed at a time when air crew labor costs were higher relative to fuel costs. Despite the high fuel consumption, because fuel was inexpensive in that era the higher speed resulted in favorable economical returns since crew costs and amortization of capital investment in the aircraft could be spread over more seat-miles flown per day.
+Productivity including speed went from around 150 ASK/MJ*km/h for the 1930s DC-3 to 550 for the L-1049 in the 1950s, and from 200 for the DH-106 Comet 3 to 900 for the 1990s B737-800.
+
+Today's turboprop airliners have better fuel-efficiency than current jet airliners, in part because of their propellers. In 2012, turboprop airliner usage was correlated with US regional carriers' fuel efficiency.
+
+Jet airliners became 70% more fuel efficient between 1967 and 2007, 40% due to improvements in engine efficiency and 30% from airframes.
+Efficiency gains were larger early in the jet age than later, with a 55-67% gain from 1960 to 1980 and a 20-26% gain from 1980 to 2000.
+Average fuel burn of new aircraft fell 45% from 1968 to 2014, a compounded annual reduction 1.3% with variable reduction rate.
+
+Concorde, a supersonic transport, managed about 17 passenger-miles to the Imperial gallon, which is 16.7 L/100 km per passenger; similar to a business jet, but much worse than a subsonic turbofan aircraft. Airbus states a fuel rate consumption of their A380 at less than 3 L/100 km per passenger (78 passenger-miles per US gallon).
+
+Newer aircraft like the Boeing 787 Dreamliner, Airbus A350 and Bombardier CSeries, are 20% more fuel efficient per passenger kilometer than previous generation aircraft. For the 787, this is achieved through more fuel-efficient engines and lighter composite material airframes, and also through more aerodynamic shapes, winglets, more advanced computer systems for optimising routes and aircraft loading.
+A life-cycle assessment based on the Boeing 787 shows a 20% emission savings compared to conventional aluminium airliners, 14-15% fleet-wide when encompassing a fleet penetration below 100%, while the air travel demand would increase due to lower operating costs.
+
+Lufthansa, when it ordered both, stated the Airbus A350-900 and the Boeing 777X-9 will consume an average of 2.9 L/100 km (81 mpg‑US) per passenger.
+The Airbus A321 featuring Sharklet wingtip devices consumes 2.2 L/100 km (110 mpg‑US) per person with a 200-seat layout for WOW Air.
+
+Airbus airliners delivered in 2019 had a carbon intensity of 66.6 g of CO2 equivalent per passenger-kilometer, improving to 63.5g in 2020.
+
+The aviation fuel density used is 6.7 lb/USgal or 0.8 kg/L.
+
+For flights of 300 nmi (560 km):
+
+For flights of 500–700 nmi (930–1,300 km)
+
+For flights of 1,000 nmi (1,900 km):
+
+For flights around 2,000–3,000 nmi (3,700–5,600 km), transcontinental (e.g. Washington Dulles – Seattle-Tacoma is 2,000 nmi) to short transatlantic flights (e.g. New York JFK – London-Heathrow is 3,000 nmi).
+
+For flights around 5,000 to 7,000 nmi (9,300 to 13,000 km), including transpacific flights (e.g. Hong Kong – San Francisco International is 6,000 nmi).
+
+For a comparison with ground transportation - much slower and with shorter range than air travel - a Volvo bus 9700 averages 0.41 L/100 km (570 mpg‑US) per seat for 63 seats. In highway travel an average auto has the potential for 1.61 L/100 km (146 mpg‑US) per seat (assuming 4 seats) and for a 5-seat 2014 Toyota Prius,  0.98 L/100 km (240 mpg‑US). While this shows the capabilities of the vehicles, the load factors (percentage of seats occupied) may differ between personal use (commonly just the driver in the car) and societal averages for long-distance auto use, and among those of particular airlines.
+
+For private aircraft in general aviation, current FAI Aeroplane Efficiency records are :
+
+A four-seat Dyn'Aéro MCR4S powered by a Rotax 914 consumes 8.3 L/100 km at 264 km/h (2.1 L/100 km per seat).
+
+NASA and Boeing flight-tested a 500 lb (230 kg) blended wing body (BWB) X-48B demonstrator from August 2012 to April 2013. This design provides greater fuel efficiency, since the whole craft produces lift, not just the wings. The BWB concept offers advantages in structural, aerodynamic and operating efficiencies over today's more-conventional fuselage-and-wing designs. These features translate into greater range, fuel economy, reliability and life-cycle savings, as well as lower manufacturing costs. NASA has created a cruise efficient STOL (CESTOL) concept.
+
+Fraunhofer Institute for Manufacturing Engineering and Applied Materials Research (IFAM) have researched a sharkskin-imitating paint that would reduce drag through a riblet effect. Aviation is a major potential application for new technologies such as aluminium metal foam and nanotechnology.
+
+The International Air Transport Association (IATA) technology roadmap envisions improvements in aircraft configuration and aerodynamics. It projects the following reductions in engine fuel consumption, compared to baseline aircraft in service in 2015:
+
+Moreover, it projects the following gains for aircraft design technologies:
+
+Today's tube-and-wing configuration could remain in use until the 2030s due to drag reductions from active flutter suppression for slender flexible-wings and natural and hybrid laminar flow.
+Large, ultra high bypass engines will need upswept gull wings or overwing nacelles as Pratt & Whitney continue to develop their geared turbofan to save a projected 10–15% of fuel costs by the mid-2020s.
+NASA indicates this configuration could gain up to 45% with advanced aerodynamics, structures and geared turbofans, but longer term suggests savings of up to 50% by 2025 and 60% by 2030 with new ultra-efficient configurations and propulsion architectures: hybrid wing body, truss-braced wing, lifting body designs, embedded engines, and boundary-layer ingestion.
+By 2030 hybrid-electric architectures may be ready for 100 seaters and distributed propulsion with tighter integration of airframe may enable further efficiency and emissions improvements.
+
+Research projects such as Boeing's ecoDemonstrator program have sought to identify ways of improving the fuel economy of commercial aircraft operations. The U.S. government has encouraged such research through grant programs, including the FAA's Continuous Lower Energy, Emissions and Noise (CLEEN) program, and NASA's Environmentally Responsible Aviation (ERA) Project.
+
+Multiple concepts are projected to reduce fuel consumption:
+
+The growth of air travel outpaces its fuel-economy improvements and corresponding CO2 emissions, compromising climate sustainability. Although low-cost carriers' higher seat-density increases fuel economy and lowers greenhouse gas emissions per-passenger-kilometer, the lower airfares cause a rebound effect of more flights and larger overall emissions. The tourism industry could shift emphasis to emissions eco-efficiency in CO2 per unit of revenue or profit instead of fuel economy, favoring shorter trips and ground transportation over flying long journeys to reduce greenhouse gas emissions.

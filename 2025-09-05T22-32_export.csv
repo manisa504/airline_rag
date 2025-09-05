@@ -1,0 +1,6 @@
+﻿,Question,Overall,Accuracy,Relevance,Completeness,ROUGE-L,BLEU,Time (s)
+0,What is ETOPS and why is it important for twin-engine aircraft?,0.707,0.8,0.8,0.8,0.232,0.024,1.54
+1,What is the role of a flight dispatcher?,0.703,0.8,0.8,0.8,0.201,0.014,1.62
+2,What is MEL and when is it used?,0.734,0.9,0.8,0.8,0.22,0.076,1.81
+3,How does Airport Collaborative Decision Making (A-CDM) work?,0.603,0.8,0.6,0.6,0.218,0.018,1.42
+4,What factors affect aircraft fuel economy?,0.708,0.8,0.8,0.8,0.242,0.039,1.67

@@ -1,0 +1,13 @@
+Title: Aeronautical Information Manual (AIM)
+Source: FAA
+URL: https://www.faa.gov/air_traffic/publications/atpubs/aim_html/
+License: Public Domain (US Government Works)
+======================================================================
+
+AIM
+General InformationAir NavigationAeronautical Lighting and Other Airport Visual AidsAirspaceAir Traffic ControlAir Traffic ProceduresEmergency ProceduresSafety of FlightMedical Facts for PilotsAeronautical Charts and Related PublicationsHelicopter OperationsUnmanned Aircraft Systems (UAS)Bird/Other Wildlife Strike ReportVolcanic Activity Reporting Form (VAR)Abbreviations/AcronymsFAA Form 7233−4 International Flight PlanFAA Form 7233−1 Flight PlanPilot/Controller Glossary
+Effective: August 7, 2025
+Change: 1
+FAA National Headquarters (FOB−10B), Mission Support Services Policy (AJV-P)
+United States Department of Transportation
+Federal Aviation Administration

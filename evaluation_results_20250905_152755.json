@@ -1,0 +1,66 @@
+{
+  "timestamp": "20250905_152755",
+  "aggregate_metrics": {
+    "avg_accuracy": 0.8000000000000002,
+    "avg_relevance": 0.8000000000000002,
+    "avg_completeness": 0.8000000000000002,
+    "avg_rouge_1_f1": 0.3429559944446267,
+    "avg_rouge_2_f1": 0.11619190404797601,
+    "avg_rouge_l_f1": 0.22053492339490174,
+    "avg_bleu_score": 0.0,
+    "avg_source_quality": 0.8201768186357287,
+    "avg_response_time": 1.6718132495880127,
+    "avg_overall_score": 0.7030623332712765,
+    "std_overall_score": 0.0020121787897557776
+  },
+  "detailed_results": [
+    {
+      "question": "What is ETOPS and why is it important for twin-engine aircraft?",
+      "predicted_answer": "Based on the provided text, ETOPS stands for Extended-range Twin-engine Operations Performance Standards.  It's a set of safety standards from the International Civil Aviation Organization (ICAO) for twin-engine commercial passenger aircraft.  The importance for twin-engine aircraft lies in ensuring that, should one engine fail, the aircraft can still reach a diversion airport using the remaining engine.  This is crucial, especially for flights over water, where the distance to the nearest airport might be significant.  The process involves both type certification testing (demonstrating the aircraft's capability to safely divert on a single engine) and operational adherence to the standards.\n",
+      "reference_answer": "ETOPS (Extended Twin-engine Operational Performance Standards) is a certification that allows twin-engine aircraft to fly routes that are more than 60 minutes flying time from the nearest airport. It's important because it enables airlines to use more fuel-efficient twin-engine aircraft on long-haul routes while maintaining safety standards through rigorous aircraft and crew requirements.",
+      "accuracy_score": 0.8,
+      "relevance_score": 0.8,
+      "completeness_score": 0.8,
+      "rouge_1_f1": 0.39263803680981596,
+      "rouge_2_f1": 0.14906832298136646,
+      "rouge_l_f1": 0.2331288343558282,
+      "bleu_score": 0.0,
+      "source_quality_score": 0.8518203417460124,
+      "response_time": 1.5504188537597656,
+      "overall_score": 0.7059039005228834,
+      "num_sources": 3
+    },
+    {
+      "question": "What is the role of a flight dispatcher?",
+      "predicted_answer": "Based on the provided text, a flight dispatcher (also known as an airline dispatcher or flight operations officer) plays a crucial role in flight safety.  Their responsibilities include planning flight paths, considering factors like aircraft performance, loading, weather conditions (winds, thunderstorms, turbulence), airspace restrictions, and airport conditions.  They also monitor flights (\"flight following service\") and advise pilots of changing conditions.  Dispatchers work in the airline's operations center and are responsible for overseeing multiple flights simultaneously (10-25 depending on operational demands).  Importantly, their responsibilities are legally separated from commercial aspects of the airline, prioritizing flight safety.  In the US, they are legally 50% responsible for the safety of each flight they dispatch.  The provided text also mentions that dispatchers require a minimum of 200 hours of approved training.\n",
+      "reference_answer": "A flight dispatcher is responsible for flight planning, monitoring weather conditions, calculating fuel requirements, determining optimal routes, and maintaining communication with pilots during flight. They share legal responsibility with the captain for the safe operation of the flight and can delay, cancel, or redirect flights if necessary.",
+      "accuracy_score": 0.8,
+      "relevance_score": 0.8,
+      "completeness_score": 0.8,
+      "rouge_1_f1": 0.3068181818181818,
+      "rouge_2_f1": 0.08045977011494253,
+      "rouge_l_f1": 0.1931818181818182,
+      "bleu_score": 0.0,
+      "source_quality_score": 0.8438278953234355,
+      "response_time": 1.7722728252410889,
+      "overall_score": 0.7015095765843535,
+      "num_sources": 3
+    },
+    {
+      "question": "What is MEL and when is it used?",
+      "predicted_answer": "Based on the provided text, MEL (Minimum Equipment List) is a list of on-board systems, instruments, and equipment that may be inoperative for flight in a specific aircraft model.  It's used to allow an aircraft to fly even when some equipment is malfunctioning, provided the inoperative equipment doesn't compromise safety.  The MEL is based on the MMEL (Master Minimum Equipment List) defined by the aircraft manufacturer.  It helps prevent an aircraft from being grounded during the day, allowing repairs to be made overnight, thus preventing revenue loss.  Generally, an aircraft maintenance technician will inspect the aircraft, consult the MEL, and apply the necessary procedures (tagging, placarding, noting performance reductions) before releasing the aircraft for flight with a MEL deferral.\n",
+      "reference_answer": "MEL (Minimum Equipment List) is a document that specifies which aircraft systems can be inoperative while still allowing safe flight operations. It's used when certain non-critical equipment fails, allowing the aircraft to continue operations under specific conditions and time limitations until the equipment can be repaired.",
+      "accuracy_score": 0.8,
+      "relevance_score": 0.8,
+      "completeness_score": 0.8,
+      "rouge_1_f1": 0.32941176470588235,
+      "rouge_2_f1": 0.11904761904761903,
+      "rouge_l_f1": 0.2352941176470588,
+      "bleu_score": 0.0,
+      "source_quality_score": 0.764882218837738,
+      "response_time": 1.6927480697631836,
+      "overall_score": 0.7017735227065929,
+      "num_sources": 3
+    }
+  ]
+}
